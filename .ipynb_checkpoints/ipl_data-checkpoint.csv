@@ -1,0 +1,959 @@
+,home,away,date,match_type,venue,time_of_match,toss,winner,man_of_match,outcome
+0,Royal Challengers Bangalore,Kolkata Knight Riders,"18th April, 2008",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Kolkata Knight Riders,Brendon McCullum,0
+1,Kings XI Punjab,Chennai Super Kings,"19th April, 2008",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Michael Hussey,0
+2,Delhi Daredevils,Rajasthan Royals,"19th April, 2008",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Rajasthan Royals,Delhi Daredevils,Farveez Maharoof,1
+3,Kolkata Knight Riders,Deccan Chargers,"20th April, 2008",league,"Eden Gardens, Kolkata",Day/Night Match,Deccan Chargers,Kolkata Knight Riders,David Hussey,1
+4,Mumbai Indians,Royal Challengers Bangalore,"20th April, 2008",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Royal Challengers Bangalore,Mark Boucher,0
+5,Rajasthan Royals,Kings XI Punjab,"21st April, 2008",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Kings XI Punjab,Rajasthan Royals,Shane Watson,1
+6,Deccan Chargers,Delhi Daredevils,"22nd April, 2008",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Deccan Chargers,Delhi Daredevils,Virender Sehwag,0
+7,Chennai Super Kings,Mumbai Indians,"23rd April, 2008",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Mumbai Indians,Chennai Super Kings,Matthew Hayden,1
+8,Deccan Chargers,Rajasthan Royals,"24th April, 2008",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Yusuf Pathan,0
+9,Kings XI Punjab,Mumbai Indians,"25th April, 2008",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Mumbai Indians,Kings XI Punjab,Kumar Sangakkara,1
+10,Chennai Super Kings,Kolkata Knight Riders,"26th April, 2008",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Kolkata Knight Riders,Chennai Super Kings,Jacob Oram,1
+11,Royal Challengers Bangalore,Rajasthan Royals,"26th April, 2008",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Shane Watson,0
+12,Kings XI Punjab,Delhi Daredevils,"27th April, 2008",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Delhi Daredevils,Kings XI Punjab,Simon Katich,1
+13,Mumbai Indians,Deccan Chargers,"27th April, 2008",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Deccan Chargers,Deccan Chargers,Adam Gilchrist,0
+14,Royal Challengers Bangalore,Chennai Super Kings,"28th April, 2008",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Chennai Super Kings,Chennai Super Kings,M S Dhoni,0
+15,Kolkata Knight Riders,Mumbai Indians,"29th April, 2008",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Mumbai Indians,Sanath Jayasuriya,0
+16,Delhi Daredevils,Royal Challengers Bangalore,"30th April, 2008",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Royal Challengers Bangalore,Delhi Daredevils,Glenn McGrath,1
+17,Rajasthan Royals,Kolkata Knight Riders,"1st May, 2008",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Swapnil Asnodkar,1
+18,Deccan Chargers,Kings XI Punjab,"1st May, 2008",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Shaun Marsh,0
+19,Chennai Super Kings,Delhi Daredevils,"2nd May, 2008",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Delhi Daredevils,Virender Sehwag,0
+20,Royal Challengers Bangalore,Deccan Chargers,"3rd May, 2008",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Deccan Chargers,Royal Challengers Bangalore,Praveen Kumar,1
+21,Kings XI Punjab,Kolkata Knight Riders,"3rd May, 2008",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Irfan Pathan,1
+22,Mumbai Indians,Delhi Daredevils,"4th May, 2008",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Delhi Daredevils,Mumbai Indians,Shaun Pollock,1
+23,Rajasthan Royals,Chennai Super Kings,"4th May, 2008",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Chennai Super Kings,Rajasthan Royals,Sohail Tanvir,1
+24,Royal Challengers Bangalore,Kings XI Punjab,"5th May, 2008",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Sreesanth,0
+25,Chennai Super Kings,Deccan Chargers,"6th May, 2008",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Deccan Chargers,Deccan Chargers,Adam Gilchrist,0
+26,Mumbai Indians,Rajasthan Royals,"7th May, 2008",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Ashish Nehra,1
+27,Delhi Daredevils,Chennai Super Kings,"8th May, 2008",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Chennai Super Kings,Chennai Super Kings,M S Dhoni,0
+28,Kolkata Knight Riders,Royal Challengers Bangalore,"8th May, 2008",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Sourav Ganguly,1
+29,Rajasthan Royals,Deccan Chargers,"9th May, 2008",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Yusuf Pathan,1
+30,Chennai Super Kings,Kings XI Punjab,"10th May, 2008",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Kings XI Punjab,Chennai Super Kings,Lakshmipathy Balaji,1
+31,Deccan Chargers,Kolkata Knight Riders,"11th May, 2008",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Sourav Ganguly,0
+32,Rajasthan Royals,Delhi Daredevils,"11th May, 2008",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Shane Watson,1
+33,Kings XI Punjab,Royal Challengers Bangalore,"12th May, 2008",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Royal Challengers Bangalore,Kings XI Punjab,Shaun Marsh,1
+34,Kolkata Knight Riders,Delhi Daredevils,"13th May, 2008",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Shoaib Akhtar,1
+35,Mumbai Indians,Chennai Super Kings,"14th May, 2008",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Sanath Jayasuriya,1
+36,Delhi Daredevils,Deccan Chargers,"15th May, 2008",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Deccan Chargers,Delhi Daredevils,Amit Mishra,1
+37,Mumbai Indians,Kolkata Knight Riders,"16th May, 2008",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Shaun Pollock,1
+38,Rajasthan Royals,Royal Challengers Bangalore,"17th May, 2008",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Royal Challengers Bangalore,Rajasthan Royals,Graeme Smith,1
+39,Delhi Daredevils,Kings XI Punjab,"17th May, 2008",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Kings XI Punjab,Mahela Jayawardene,0
+40,Kolkata Knight Riders,Chennai Super Kings,"18th May, 2008",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Chennai Super Kings,Makhaya Ntini,0
+41,Deccan Chargers,Mumbai Indians,"18th May, 2008",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Deccan Chargers,Mumbai Indians,Dwayne Bravo,0
+42,Royal Challengers Bangalore,Delhi Daredevils,"19th May, 2008",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Shreevats Goswami,0
+43,Kolkata Knight Riders,Rajasthan Royals,"20th May, 2008",league,"Eden Gardens, Kolkata",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Yusuf Pathan,0
+44,Kings XI Punjab,Mumbai Indians,"21st May, 2008",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Kings XI Punjab,Shaun Marsh,1
+45,Chennai Super Kings,Royal Challengers Bangalore,"21st May, 2008",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Anil Kumble,0
+46,Delhi Daredevils,Kolkata Knight Riders,"22nd May, 2008",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,No Toss,No result,No Award,0
+47,Kings XI Punjab,Deccan Chargers,"23rd May, 2008",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Shaun Marsh,1
+48,Chennai Super Kings,Rajasthan Royals,"24th May, 2008",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Albie Morkel,0
+49,Delhi Daredevils,Mumbai Indians,"24th May, 2008",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Dinesh Karthik,1
+50,Deccan Chargers,Royal Challengers Bangalore,"25th May, 2008",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Deccan Chargers,Royal Challengers Bangalore,Vinay Kumar,0
+51,Kolkata Knight Riders,Kings XI Punjab,"25th May, 2008",league,"Eden Gardens, Kolkata",Day/Night Match,Kings XI Punjab,Kolkata Knight Riders,Umar Gul,1
+52,Rajasthan Royals,Mumbai Indians,"26th May, 2008",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Sohail Tanvir,1
+53,Deccan Chargers,Chennai Super Kings,"27th May, 2008",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Deccan Chargers,Chennai Super Kings,Suresh Raina,0
+54,Royal Challengers Bangalore,Mumbai Indians,"28th May, 2008",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Mumbai Indians,Mumbai Indians,Dilhara Fernando,0
+55,Kings XI Punjab,Rajasthan Royals,"28th May, 2008",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Rajasthan Royals,Kings XI Punjab,Shaun Marsh,1
+56,Delhi Daredevils,Rajasthan Royals,"30th May, 2008",knockout,"Wankhede Stadium, Mumbai",Day/Night Match,Delhi Daredevils,Rajasthan Royals,Shane Watson,0
+57,Kings XI Punjab,Chennai Super Kings,"31st May, 2008",knockout,"Wankhede Stadium, Mumbai",Day/Night Match,Kings XI Punjab,Chennai Super Kings,Makhaya Ntini,0
+58,Chennai Super Kings,Rajasthan Royals,"1st June, 2008",knockout,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Yusuf Pathan,0
+59,Chennai Super Kings,Mumbai Indians,"18th April, 2009",league,"Newlands, Cape Town",Day Match,Chennai Super Kings,Mumbai Indians,Sachin Tendulkar,0
+60,Royal Challengers Bangalore,Rajasthan Royals,"18th April, 2009",league,"Newlands, Cape Town",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Rahul Dravid,1
+61,Delhi Daredevils,Kings XI Punjab,"19th April, 2009",league,"Newlands, Cape Town",Day Match,Delhi Daredevils,Delhi Daredevils,Daniel Vettori,1
+62,Deccan Chargers,Kolkata Knight Riders,"19th April, 2009",league,"Newlands, Cape Town",Day/Night Match,Kolkata Knight Riders,Deccan Chargers,R P Singh,1
+63,Royal Challengers Bangalore,Chennai Super Kings,"20th April, 2009",league,"St George's Park, Port Elizabeth",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Muttiah Muralitharan,0
+64,Kings XI Punjab,Kolkata Knight Riders,"21st April, 2009",league,"Kingsmead, Durban",Day Match,Kolkata Knight Riders,Kolkata Knight Riders,Chris Gayle,0
+65,Mumbai Indians,Rajasthan Royals,"21st April, 2009",league,"Kingsmead, Durban",Day/Night Match,No Toss,No result,No Award,0
+66,Royal Challengers Bangalore,Deccan Chargers,"22nd April, 2009",league,"Newlands, Cape Town",Day/Night Match,Deccan Chargers,Deccan Chargers,Adam Gilchrist,0
+67,Chennai Super Kings,Delhi Daredevils,"23rd April, 2009",league,"Kingsmead, Durban",Day Match,Delhi Daredevils,Delhi Daredevils,AB de Villiers,0
+68,Kolkata Knight Riders,Rajasthan Royals,"23rd April, 2009",league,"Newlands, Cape Town",Day/Night Match,Kolkata Knight Riders,Rajasthan Royals,Yusuf Pathan,0
+69,Royal Challengers Bangalore,Kings XI Punjab,"24th April, 2009",league,"Kingsmead, Durban",Day/Night Match,Royal Challengers Bangalore,Kings XI Punjab,Ravi Bopara,0
+70,Deccan Chargers,Mumbai Indians,"25th April, 2009",league,"Kingsmead, Durban",Day Match,Deccan Chargers,Deccan Chargers,Pragyan Ojha,1
+71,Chennai Super Kings,Kolkata Knight Riders,"25th April, 2009",league,"Newlands, Cape Town",Day/Night Match,No Toss,No result,No Award,0
+72,Royal Challengers Bangalore,Delhi Daredevils,"26th April, 2009",league,"St George's Park, Port Elizabeth",Day Match,Royal Challengers Bangalore,Delhi Daredevils,Tillakaratne Dilshan,0
+73,Kings XI Punjab,Rajasthan Royals,"26th April, 2009",league,"Newlands, Cape Town",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Kumar Sangakkara,1
+74,Chennai Super Kings,Deccan Chargers,"27th April, 2009",league,"Kingsmead, Durban",Day Match,Deccan Chargers,Deccan Chargers,Herschelle Gibbs,0
+75,Kolkata Knight Riders,Mumbai Indians,"27th April, 2009",league,"St George's Park, Port Elizabeth",Day/Night Match,Mumbai Indians,Mumbai Indians,Sachin Tendulkar,0
+76,Delhi Daredevils,Rajasthan Royals,"28th April, 2009",league,"SuperSport Park, Centurion",Day/Night Match,Delhi Daredevils,Rajasthan Royals,Yusuf Pathan,0
+77,Royal Challengers Bangalore,Kolkata Knight Riders,"29th April, 2009",league,"Kingsmead, Durban",Day Match,Kolkata Knight Riders,Royal Challengers Bangalore,Mark Boucher,1
+78,Kings XI Punjab,Mumbai Indians,"29th April, 2009",league,"Kingsmead, Durban",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Kumar Sangakkara,1
+79,Deccan Chargers,Delhi Daredevils,"30th April, 2009",league,"SuperSport Park, Centurion",Day Match,Delhi Daredevils,Delhi Daredevils,Dirk Nannes,0
+80,Chennai Super Kings,Rajasthan Royals,"30th April, 2009",league,"Buffalo Park, East London",Day/Night Match,Rajasthan Royals,Chennai Super Kings,Suresh Raina,1
+81,Kolkata Knight Riders,Mumbai Indians,"1st May, 2009",league,"Buffalo Park, East London",Day Match,Mumbai Indians,Mumbai Indians,Jean-Paul Duminy,0
+82,Royal Challengers Bangalore,Kings XI Punjab,"1st May, 2009",league,"Kingsmead, Durban",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Yuvraj Singh,1
+83,Deccan Chargers,Rajasthan Royals,"2nd May, 2009",league,"St George's Park, Port Elizabeth",Day Match,Deccan Chargers,Rajasthan Royals,Yusuf Pathan,0
+84,Chennai Super Kings,Delhi Daredevils,"2nd May, 2009",league,"Wanderers Stadium, Johannesburg",Day/Night Match,Delhi Daredevils,Chennai Super Kings,Shadab Jakati,1
+85,Kings XI Punjab,Kolkata Knight Riders,"3rd May, 2009",league,"St George's Park, Port Elizabeth",Day Match,Kolkata Knight Riders,Kings XI Punjab,Mahela Jayawardene,1
+86,Royal Challengers Bangalore,Mumbai Indians,"3rd May, 2009",league,"Wanderers Stadium, Johannesburg",Day/Night Match,Mumbai Indians,Royal Challengers Bangalore,Jacques Kallis,1
+87,Chennai Super Kings,Deccan Chargers,"4th May, 2009",league,"Buffalo Park, East London",Day/Night Match,Chennai Super Kings,Chennai Super Kings,M S Dhoni,1
+88,Kings XI Punjab,Rajasthan Royals,"5th May, 2009",league,"Kingsmead, Durban",Day Match,Kings XI Punjab,Rajasthan Royals,Graeme Smith,0
+89,Delhi Daredevils,Kolkata Knight Riders,"5th May, 2009",league,"Kingsmead, Durban",Day/Night Match,Kolkata Knight Riders,Delhi Daredevils,Gautam Gambhir,1
+90,Deccan Chargers,Mumbai Indians,"6th May, 2009",league,"SuperSport Park, Centurion",Day/Night Match,Deccan Chargers,Deccan Chargers,Rohit Sharma,1
+91,Royal Challengers Bangalore,Rajasthan Royals,"7th May, 2009",league,"SuperSport Park, Centurion",Day Match,Rajasthan Royals,Rajasthan Royals,Amit Singh,0
+92,Chennai Super Kings,Kings XI Punjab,"7th May, 2009",league,"SuperSport Park, Centurion",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Matthew Hayden,1
+93,Delhi Daredevils,Mumbai Indians,"8th May, 2009",league,"Buffalo Park, East London",Day/Night Match,Mumbai Indians,Delhi Daredevils,Ashish Nehra,1
+94,Deccan Chargers,Kings XI Punjab,"9th May, 2009",league,"Diamond Oval, Kimberley",Day Match,Kings XI Punjab,Kings XI Punjab,Mahela Jayawardene,0
+95,Chennai Super Kings,Rajasthan Royals,"9th May, 2009",league,"Diamond Oval, Kimberley",Day/Night Match,Rajasthan Royals,Chennai Super Kings,Subramaniam Badrinath,1
+96,Royal Challengers Bangalore,Mumbai Indians,"10th May, 2009",league,"St George's Park, Port Elizabeth",Day Match,Mumbai Indians,Mumbai Indians,Jean-Paul Duminy,0
+97,Delhi Daredevils,Kolkata Knight Riders,"10th May, 2009",league,"Wanderers Stadium, Johannesburg",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Amit Mishra,1
+98,Deccan Chargers,Rajasthan Royals,"11th May, 2009",league,"Diamond Oval, Kimberley",Day/Night Match,Deccan Chargers,Deccan Chargers,Dwayne Smith,1
+99,Royal Challengers Bangalore,Kolkata Knight Riders,"12th May, 2009",league,"SuperSport Park, Centurion",Day Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Ross Taylor,1
+100,Kings XI Punjab,Mumbai Indians,"12th May, 2009",league,"SuperSport Park, Centurion",Day/Night Match,Kings XI Punjab,Mumbai Indians,Harbhajan Singh,0
+101,Deccan Chargers,Delhi Daredevils,"13th May, 2009",league,"Kingsmead, Durban",Day/Night Match,Deccan Chargers,Delhi Daredevils,Rajat Bhatia,0
+102,Royal Challengers Bangalore,Chennai Super Kings,"14th May, 2009",league,"Kingsmead, Durban",Day Match,Chennai Super Kings,Royal Challengers Bangalore,Ross Taylor,1
+103,Mumbai Indians,Rajasthan Royals,"14th May, 2009",league,"Kingsmead, Durban",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Shane Warne,0
+104,Delhi Daredevils,Kings XI Punjab,"15th May, 2009",league,"Mangaung Oval, Bloemfontein",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Brett Lee,0
+105,Chennai Super Kings,Mumbai Indians,"16th May, 2009",league,"St George's Park, Port Elizabeth",Day Match,Mumbai Indians,Chennai Super Kings,Matthew Hayden,1
+106,Deccan Chargers,Kolkata Knight Riders,"16th May, 2009",league,"Wanderers Stadium, Johannesburg",Day/Night Match,Deccan Chargers,Deccan Chargers,Rohit Sharma,1
+107,Deccan Chargers,Kings XI Punjab,"17th May, 2009",league,"Wanderers Stadium, Johannesburg",Day Match,Deccan Chargers,Kings XI Punjab,Yuvraj Singh,0
+108,Delhi Daredevils,Rajasthan Royals,"17th May, 2009",league,"Mangaung Oval, Bloemfontein",Day/Night Match,Delhi Daredevils,Delhi Daredevils,AB de Villiers,1
+109,Chennai Super Kings,Kolkata Knight Riders,"18th May, 2009",league,"SuperSport Park, Centurion",Day/Night Match,Chennai Super Kings,Kolkata Knight Riders,Bradley Hodge,0
+110,Royal Challengers Bangalore,Delhi Daredevils,"19th May, 2009",league,"Wanderers Stadium, Johannesburg",Day/Night Match,Delhi Daredevils,Royal Challengers Bangalore,Jacques Kallis,1
+111,Kolkata Knight Riders,Rajasthan Royals,"20th May, 2009",league,"Kingsmead, Durban",Day Match,Kolkata Knight Riders,Kolkata Knight Riders,Laxmi Shukla,1
+112,Chennai Super Kings,Kings XI Punjab,"20th May, 2009",league,"Kingsmead, Durban",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Muttiah Muralitharan,1
+113,Delhi Daredevils,Mumbai Indians,"21st May, 2009",league,"SuperSport Park, Centurion",Day Match,Delhi Daredevils,Delhi Daredevils,Virender Sehwag,1
+114,Royal Challengers Bangalore,Deccan Chargers,"21st May, 2009",league,"SuperSport Park, Centurion",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Manish Pandey,1
+115,Delhi Daredevils,Deccan Chargers,"22nd May, 2009",knockout,"SuperSport Park, Centurion",Day/Night Match,Deccan Chargers,Deccan Chargers,Adam Gilchrist,0
+116,Royal Challengers Bangalore,Chennai Super Kings,"23rd May, 2009",knockout,"Wanderers Stadium, Johannesburg",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Manish Pandey,1
+117,Royal Challengers Bangalore,Deccan Chargers,"24th May, 2009",knockout,"Wanderers Stadium, Johannesburg",Day/Night Match,Royal Challengers Bangalore,Deccan Chargers,Anil Kumble,0
+118,Deccan Chargers,Kolkata Knight Riders,"12th March, 2010",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Deccan Chargers,Kolkata Knight Riders,Angelo Mathews,0
+119,Mumbai Indians,Rajasthan Royals,"13th March, 2010",league,"Brabourne Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Yusuf Pathan,1
+120,Kings XI Punjab,Delhi Daredevils,"13th March, 2010",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Gautam Gambhir,0
+121,Kolkata Knight Riders,Royal Challengers Bangalore,"14th March, 2010",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Manoj Tiwary,1
+122,Chennai Super Kings,Deccan Chargers,"14th March, 2010",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Deccan Chargers,Deccan Chargers,Chaminda Vaas,0
+123,Rajasthan Royals,Delhi Daredevils,"15th March, 2010",league,"Barabati Stadium, Cuttack",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Virender Sehwag,0
+124,Royal Challengers Bangalore,Kings XI Punjab,"16th March, 2010",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kings XI Punjab,Royal Challengers Bangalore,Jacques Kallis,1
+125,Chennai Super Kings,Kolkata Knight Riders,"16th March, 2010",league,"Eden Gardens, Kolkata",Day/Night Match,Chennai Super Kings,Chennai Super Kings,M S Dhoni,1
+126,Delhi Daredevils,Mumbai Indians,"17th March, 2010",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Mumbai Indians,Sachin Tendulkar,0
+127,Royal Challengers Bangalore,Rajasthan Royals,"18th March, 2010",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Jacques Kallis,1
+128,Delhi Daredevils,Chennai Super Kings,"19th March, 2010",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Chennai Super Kings,Matthew Hayden,0
+129,Deccan Chargers,Kings XI Punjab,"19th March, 2010",league,"Barabati Stadium, Cuttack",Day/Night Match,Kings XI Punjab,Deccan Chargers,Andrew Symonds,1
+130,Rajasthan Royals,Kolkata Knight Riders,"20th March, 2010",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Abhishek Jhunjhunwala,1
+131,Mumbai Indians,Royal Challengers Bangalore,"20th March, 2010",league,"Barabati Stadium, Cuttack",Day/Night Match,Mumbai Indians,Royal Challengers Bangalore,Jacques Kallis,0
+132,Deccan Chargers,Delhi Daredevils,"21st March, 2010",league,"Barabati Stadium, Cuttack",Day/Night Match,Deccan Chargers,Deccan Chargers,Andrew Symonds,1
+133,Chennai Super Kings,Kings XI Punjab,"21st March, 2010",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Kings XI Punjab,Rusty Theron,0
+134,Mumbai Indians,Kolkata Knight Riders,"22nd March, 2010",league,"Brabourne Stadium, Mumbai",Day/Night Match,Kolkata Knight Riders,Mumbai Indians,Sachin Tendulkar,1
+135,Royal Challengers Bangalore,Chennai Super Kings,"23rd March, 2010",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Chennai Super Kings,Royal Challengers Bangalore,Robin Uthappa,1
+136,Kings XI Punjab,Rajasthan Royals,"24th March, 2010",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Rajasthan Royals,Adam Voges,0
+137,Royal Challengers Bangalore,Delhi Daredevils,"25th March, 2010",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Delhi Daredevils,Kedar Jadhav,0
+138,Mumbai Indians,Chennai Super Kings,"25th March, 2010",league,"Brabourne Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Sachin Tendulkar,1
+139,Rajasthan Royals,Deccan Chargers,"26th March, 2010",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Deccan Chargers,Rajasthan Royals,Yusuf Pathan,1
+140,Kings XI Punjab,Kolkata Knight Riders,"27th March, 2010",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Manoj Tiwary,0
+141,Rajasthan Royals,Chennai Super Kings,"28th March, 2010",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Naman Ojha,1
+142,Deccan Chargers,Mumbai Indians,"28th March, 2010",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Deccan Chargers,Mumbai Indians,Harbhajan Singh,0
+143,Delhi Daredevils,Kolkata Knight Riders,"29th March, 2010",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,David Warner,1
+144,Mumbai Indians,Kings XI Punjab,"30th March, 2010",league,"Brabourne Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Lasith Malinga,1
+145,Chennai Super Kings,Royal Challengers Bangalore,"31st March, 2010",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Royal Challengers Bangalore,Chennai Super Kings,Murali Vijay,1
+146,Delhi Daredevils,Rajasthan Royals,"31st March, 2010",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Dinesh Karthik,1
+147,Kolkata Knight Riders,Deccan Chargers,"1st April, 2010",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Sourav Ganguly,1
+148,Kings XI Punjab,Royal Challengers Bangalore,"2nd April, 2010",league,"Barabati Stadium, Cuttack",Day/Night Match,Kings XI Punjab,Royal Challengers Bangalore,Kevin Pietersen,0
+149,Chennai Super Kings,Rajasthan Royals,"3rd April, 2010",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Murali Vijay,1
+150,Mumbai Indians,Deccan Chargers,"3rd April, 2010",league,"Brabourne Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Ambati Rayudu,1
+151,Kolkata Knight Riders,Kings XI Punjab,"4th April, 2010",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kings XI Punjab,Mahela Jayawardene,0
+152,Delhi Daredevils,Royal Challengers Bangalore,"4th April, 2010",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Paul Collingwood,1
+153,Deccan Chargers,Rajasthan Royals,"5th April, 2010",league,"Vidarbha Cricket Association Stadium, Nagpur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Shane Warne,0
+154,Chennai Super Kings,Mumbai Indians,"6th April, 2010",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1
+155,Rajasthan Royals,Kings XI Punjab,"7th April, 2010",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Kings XI Punjab,Rajasthan Royals,Michael Lumb,1
+156,Kolkata Knight Riders,Delhi Daredevils,"7th April, 2010",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Sourav Ganguly,1
+157,Royal Challengers Bangalore,Deccan Chargers,"8th April, 2010",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Deccan Chargers,Deccan Chargers,Tirumalasetti Suman,0
+158,Kings XI Punjab,Mumbai Indians,"9th April, 2010",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Mumbai Indians,Kings XI Punjab,Kumar Sangakkara,1
+159,Deccan Chargers,Chennai Super Kings,"10th April, 2010",league,"Vidarbha Cricket Association Stadium, Nagpur",Day/Night Match,Chennai Super Kings,Deccan Chargers,Ryan Harris,1
+160,Royal Challengers Bangalore,Kolkata Knight Riders,"10th April, 2010",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Vinay Kumar,1
+161,Delhi Daredevils,Kings XI Punjab,"11th April, 2010",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Kings XI Punjab,Piyush Chawla,0
+162,Rajasthan Royals,Mumbai Indians,"11th April, 2010",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Mumbai Indians,Sachin Tendulkar,0
+163,Deccan Chargers,Royal Challengers Bangalore,"12th April, 2010",league,"Vidarbha Cricket Association Stadium, Nagpur",Day/Night Match,Royal Challengers Bangalore,Deccan Chargers,Harmeet Singh,1
+164,Mumbai Indians,Delhi Daredevils,"13th April, 2010",league,"Brabourne Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Kieron Pollard,1
+165,Chennai Super Kings,Kolkata Knight Riders,"13th April, 2010",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Kolkata Knight Riders,Chennai Super Kings,Ravichandran Ashwin,1
+166,Rajasthan Royals,Royal Challengers Bangalore,"14th April, 2010",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Royal Challengers Bangalore,Kevin Pietersen,0
+167,Chennai Super Kings,Delhi Daredevils,"15th April, 2010",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Delhi Daredevils,Gautam Gambhir,0
+168,Kings XI Punjab,Deccan Chargers,"16th April, 2010",league,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Day/Night Match,Deccan Chargers,Deccan Chargers,Rohit Sharma,0
+169,Royal Challengers Bangalore,Mumbai Indians,"17th April, 2010",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Mumbai Indians,Ryan McLaren,0
+170,Kolkata Knight Riders,Rajasthan Royals,"17th April, 2010",league,"Eden Gardens, Kolkata",Day/Night Match,Rajasthan Royals,Kolkata Knight Riders,Jaydev Unadkat,1
+171,Kings XI Punjab,Chennai Super Kings,"18th April, 2010",league,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Day/Night Match,Chennai Super Kings,Chennai Super Kings,M S Dhoni,0
+172,Delhi Daredevils,Deccan Chargers,"18th April, 2010",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Deccan Chargers,Deccan Chargers,Andrew Symonds,0
+173,Kolkata Knight Riders,Mumbai Indians,"19th April, 2010",league,"Eden Gardens, Kolkata",Day/Night Match,Mumbai Indians,Kolkata Knight Riders,Murali Kartik,1
+174,Royal Challengers Bangalore,Mumbai Indians,"21st April, 2010",knockout,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Kieron Pollard,0
+175,Chennai Super Kings,Deccan Chargers,"22nd April, 2010",knockout,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Doug Bollinger,1
+176,Royal Challengers Bangalore,Deccan Chargers,"24th April, 2010",knockout,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Deccan Chargers,Royal Challengers Bangalore,Anil Kumble,1
+177,Chennai Super Kings,Mumbai Indians,"25th April, 2010",knockout,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1
+178,Chennai Super Kings,Kolkata Knight Riders,"8th April, 2011",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Srikkanth Anirudha,1
+179,Deccan Chargers,Rajasthan Royals,"9th April, 2011",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Siddharth Trivedi,0
+180,Kochi Tuskers Kerala,Royal Challengers Bangalore,"9th April, 2011",league,"Nehru Stadium, Kochi",Day/Night Match,Kochi Tuskers Kerala,Royal Challengers Bangalore,AB de Villiers,0
+181,Delhi Daredevils,Mumbai Indians,"10th April, 2011",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Mumbai Indians,Lasith Malinga,0
+182,Pune Warriors,Kings XI Punjab,"10th April, 2011",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Kings XI Punjab,Pune Warriors,Shrikant Wagh,1
+183,Kolkata Knight Riders,Deccan Chargers,"11th April, 2011",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Jacques Kallis,1
+184,Rajasthan Royals,Delhi Daredevils,"12th April, 2011",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Delhi Daredevils,Rajasthan Royals,Shane Warne,1
+185,Royal Challengers Bangalore,Mumbai Indians,"12th April, 2011",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Mumbai Indians,Mumbai Indians,Sachin Tendulkar,0
+186,Kings XI Punjab,Chennai Super Kings,"13th April, 2011",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Paul Valthaty,1
+187,Pune Warriors,Kochi Tuskers Kerala,"13th April, 2011",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Kochi Tuskers Kerala,Pune Warriors,Mohnish Mishra,1
+188,Deccan Chargers,Royal Challengers Bangalore,"14th April, 2011",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Royal Challengers Bangalore,Deccan Chargers,Dale Steyn,1
+189,Rajasthan Royals,Kolkata Knight Riders,"15th April, 2011",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Gautam Gambhir,0
+190,Mumbai Indians,Kochi Tuskers Kerala,"15th April, 2011",league,"Barabati Stadium, Cuttack",Day/Night Match,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Brendon McCullum,0
+191,Chennai Super Kings,Royal Challengers Bangalore,"16th April, 2011",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Michael Hussey,1
+192,Deccan Chargers,Kings XI Punjab,"16th April, 2011",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Paul Valthaty,0
+193,Pune Warriors,Delhi Daredevils,"17th April, 2011",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Yuvraj Singh,0
+194,Kolkata Knight Riders,Rajasthan Royals,"17th April, 2011",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Lakshmipathy Balaji,1
+195,Kochi Tuskers Kerala,Chennai Super Kings,"18th April, 2011",league,"Nehru Stadium, Kochi",Day/Night Match,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Brendon McCullum,1
+196,Delhi Daredevils,Deccan Chargers,"19th April, 2011",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Deccan Chargers,Deccan Chargers,Sunny Sohal,0
+197,Royal Challengers Bangalore,Rajasthan Royals,"19th April, 2011",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,No Toss,No result,No Award,0
+198,Mumbai Indians,Pune Warriors,"20th April, 2011",league,"Wankhede Stadium, Mumbai",Day/Night Match,Pune Warriors,Mumbai Indians,Munaf Patel,1
+199,Kolkata Knight Riders,Kochi Tuskers Kerala,"20th April, 2011",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kochi Tuskers Kerala,Mahela Jayawardene,0
+200,Kings XI Punjab,Rajasthan Royals,"21st April, 2011",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Rajasthan Royals,Kings XI Punjab,Shaun Marsh,1
+201,Kolkata Knight Riders,Royal Challengers Bangalore,"22nd April, 2011",league,"Eden Gardens, Kolkata",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Chris Gayle,0
+202,Mumbai Indians,Chennai Super Kings,"22nd April, 2011",league,"Wankhede Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Mumbai Indians,Harbhajan Singh,1
+203,Delhi Daredevils,Kings XI Punjab,"23rd April, 2011",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Kings XI Punjab,Delhi Daredevils,David Warner,1
+204,Deccan Chargers,Mumbai Indians,"24th April, 2011",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Deccan Chargers,Mumbai Indians,Lasith Malinga,0
+205,Rajasthan Royals,Kochi Tuskers Kerala,"24th April, 2011",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Shane Warne,1
+206,Chennai Super Kings,Pune Warriors,"25th April, 2011",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Pune Warriors,Chennai Super Kings,Michael Hussey,1
+207,Delhi Daredevils,Royal Challengers Bangalore,"26th April, 2011",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0
+208,Pune Warriors,Chennai Super Kings,"27th April, 2011",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Pune Warriors,Chennai Super Kings,Doug Bollinger,0
+209,Kochi Tuskers Kerala,Deccan Chargers,"27th April, 2011",league,"Nehru Stadium, Kochi",Day/Night Match,Kochi Tuskers Kerala,Deccan Chargers,Ishant Sharma,0
+210,Delhi Daredevils,Kolkata Knight Riders,"28th April, 2011",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Kolkata Knight Riders,Manoj Tiwary,0
+211,Rajasthan Royals,Mumbai Indians,"29th April, 2011",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Johan Botha,1
+212,Royal Challengers Bangalore,Pune Warriors,"29th April, 2011",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Pune Warriors,Royal Challengers Bangalore,Virat Kohli,1
+213,Kochi Tuskers Kerala,Delhi Daredevils,"30th April, 2011",league,"Nehru Stadium, Kochi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Virender Sehwag,0
+214,Kolkata Knight Riders,Kings XI Punjab,"30th April, 2011",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Iqbal Abdulla,1
+215,Rajasthan Royals,Pune Warriors,"1st May, 2011",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Ross Taylor,1
+216,Chennai Super Kings,Deccan Chargers,"1st May, 2011",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Albie Morkel,1
+217,Mumbai Indians,Kings XI Punjab,"2nd May, 2011",league,"Wankhede Stadium, Mumbai",Day/Night Match,Kings XI Punjab,Mumbai Indians,Kieron Pollard,1
+218,Delhi Daredevils,Kochi Tuskers Kerala,"2nd May, 2011",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Prasanth Parameswaran,0
+219,Deccan Chargers,Kolkata Knight Riders,"3rd May, 2011",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Deccan Chargers,Kolkata Knight Riders,Yusuf Pathan,0
+220,Chennai Super Kings,Rajasthan Royals,"4th May, 2011",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Rajasthan Royals,Chennai Super Kings,Michael Hussey,1
+221,Pune Warriors,Mumbai Indians,"4th May, 2011",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Pune Warriors,Mumbai Indians,Rahul Sharma,0
+222,Kochi Tuskers Kerala,Kolkata Knight Riders,"5th May, 2011",league,"Nehru Stadium, Kochi",Day/Night Match,Kolkata Knight Riders,Kochi Tuskers Kerala,Bradley Hodge,1
+223,Deccan Chargers,Delhi Daredevils,"5th May, 2011",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Virender Sehwag,0
+224,Royal Challengers Bangalore,Kings XI Punjab,"6th May, 2011",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kings XI Punjab,Royal Challengers Bangalore,Chris Gayle,1
+225,Kolkata Knight Riders,Chennai Super Kings,"7th May, 2011",league,"Eden Gardens, Kolkata",Day/Night Match,Chennai Super Kings,Kolkata Knight Riders,Iqbal Abdulla,1
+226,Mumbai Indians,Delhi Daredevils,"7th May, 2011",league,"Wankhede Stadium, Mumbai",Day/Night Match,Delhi Daredevils,Mumbai Indians,Ambati Rayudu,1
+227,Royal Challengers Bangalore,Kochi Tuskers Kerala,"8th May, 2011",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kochi Tuskers Kerala,Royal Challengers Bangalore,Chris Gayle,1
+228,Kings XI Punjab,Pune Warriors,"8th May, 2011",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Pune Warriors,Rahul Sharma,0
+229,Rajasthan Royals,Chennai Super Kings,"9th May, 2011",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Chennai Super Kings,Murali Vijay,0
+230,Deccan Chargers,Pune Warriors,"10th May, 2011",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Deccan Chargers,Pune Warriors,Mitchell Marsh,0
+231,Kings XI Punjab,Mumbai Indians,"10th May, 2011",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Mumbai Indians,Kings XI Punjab,Bhargav Bhatt,1
+232,Rajasthan Royals,Royal Challengers Bangalore,"11th May, 2011",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Sreenath Aravind,0
+233,Chennai Super Kings,Delhi Daredevils,"12th May, 2011",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,M S Dhoni,1
+234,Kochi Tuskers Kerala,Kings XI Punjab,"13th May, 2011",league,"Holkar Cricket Stadium, Indore",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Dinesh Karthik,0
+235,Royal Challengers Bangalore,Kolkata Knight Riders,"14th May, 2011",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Chris Gayle,1
+236,Mumbai Indians,Deccan Chargers,"14th May, 2011",league,"Wankhede Stadium, Mumbai",Day/Night Match,Deccan Chargers,Deccan Chargers,Amit Mishra,0
+237,Kings XI Punjab,Delhi Daredevils,"15th May, 2011",league,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Day/Night Match,Delhi Daredevils,Kings XI Punjab,Piyush Chawla,1
+238,Kochi Tuskers Kerala,Rajasthan Royals,"15th May, 2011",league,"Holkar Cricket Stadium, Indore",Day/Night Match,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Bradley Hodge,1
+239,Pune Warriors,Deccan Chargers,"16th May, 2011",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Deccan Chargers,Deccan Chargers,Amit Mishra,0
+240,Kings XI Punjab,Royal Challengers Bangalore,"17th May, 2011",league,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Adam Gilchrist,1
+241,Chennai Super Kings,Kochi Tuskers Kerala,"18th May, 2011",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Wriddhiman Saha,1
+242,Pune Warriors,Kolkata Knight Riders,"19th May, 2011",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Yusuf Pathan,0
+243,Mumbai Indians,Rajasthan Royals,"20th May, 2011",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Rajasthan Royals,Shane Watson,0
+244,Kings XI Punjab,Deccan Chargers,"21st May, 2011",league,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Day/Night Match,Kings XI Punjab,Deccan Chargers,Shikhar Dhawan,0
+245,Delhi Daredevils,Pune Warriors,"21st May, 2011",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,No result,No Award,0
+246,Royal Challengers Bangalore,Chennai Super Kings,"22nd May, 2011",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Chris Gayle,1
+247,Kolkata Knight Riders,Mumbai Indians,"22nd May, 2011",league,"Eden Gardens, Kolkata",Day/Night Match,Mumbai Indians,Mumbai Indians,James Franklin,0
+248,Royal Challengers Bangalore,Chennai Super Kings,"24th May, 2011",knockout,"Wankhede Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Suresh Raina,0
+249,Kolkata Knight Riders,Mumbai Indians,"25th May, 2011",knockout,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Munaf Patel,0
+250,Royal Challengers Bangalore,Mumbai Indians,"27th May, 2011",knockout,"MA Chidambaram Stadium, Chennai",Day/Night Match,Mumbai Indians,Royal Challengers Bangalore,Chris Gayle,1
+251,Chennai Super Kings,Royal Challengers Bangalore,"28th May, 2011",knockout,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Murali Vijay,1
+252,Chennai Super Kings,Mumbai Indians,"4th April, 2012",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Mumbai Indians,Mumbai Indians,Richard Levi,0
+253,Kolkata Knight Riders,Delhi Daredevils,"5th April, 2012",league,"Eden Gardens, Kolkata",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Irfan Pathan,0
+254,Mumbai Indians,Pune Warriors,"6th April, 2012",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Pune Warriors,Steve Smith,0
+255,Rajasthan Royals,Kings XI Punjab,"6th April, 2012",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Kings XI Punjab,Rajasthan Royals,Ajinkya Rahane,1
+256,Royal Challengers Bangalore,Delhi Daredevils,"7th April, 2012",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Delhi Daredevils,Royal Challengers Bangalore,AB de Villiers,1
+257,Deccan Chargers,Chennai Super Kings,"7th April, 2012",league,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day/Night Match,Deccan Chargers,Chennai Super Kings,Ravindra Jadeja,0
+258,Rajasthan Royals,Kolkata Knight Riders,"8th April, 2012",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Kolkata Knight Riders,Rajasthan Royals,Bradley Hodge,1
+259,Pune Warriors,Kings XI Punjab,"8th April, 2012",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Pune Warriors,Pune Warriors,Marlon Samuels,1
+260,Deccan Chargers,Mumbai Indians,"9th April, 2012",league,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day/Night Match,Deccan Chargers,Mumbai Indians,Rohit Sharma,0
+261,Royal Challengers Bangalore,Kolkata Knight Riders,"10th April, 2012",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Kolkata Knight Riders,No Award,0
+262,Delhi Daredevils,Chennai Super Kings,"10th April, 2012",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Morne Morkel,1
+263,Mumbai Indians,Rajasthan Royals,"11th April, 2012",league,"Wankhede Stadium, Mumbai",Day/Night Match,Rajasthan Royals,Mumbai Indians,Kieron Pollard,1
+264,Chennai Super Kings,Royal Challengers Bangalore,"12th April, 2012",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,1
+265,Kings XI Punjab,Pune Warriors,"12th April, 2012",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Dimitri Mascarenhas,1
+266,Kolkata Knight Riders,Rajasthan Royals,"13th April, 2012",league,"Eden Gardens, Kolkata",Day/Night Match,Rajasthan Royals,Kolkata Knight Riders,Shakib Al Hasan,1
+267,Pune Warriors,Chennai Super Kings,"14th April, 2012",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Chennai Super Kings,Pune Warriors,Jesse Ryder,1
+268,Kolkata Knight Riders,Kings XI Punjab,"15th April, 2012",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kings XI Punjab,Sunil Narine,0
+269,Royal Challengers Bangalore,Rajasthan Royals,"15th April, 2012",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Ajinkya Rahane,0
+270,Mumbai Indians,Delhi Daredevils,"16th April, 2012",league,"Wankhede Stadium, Mumbai",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Shahbaz Nadeem,0
+271,Rajasthan Royals,Deccan Chargers,"17th April, 2012",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Deccan Chargers,Rajasthan Royals,Bradley Hodge,1
+272,Royal Challengers Bangalore,Pune Warriors,"17th April, 2012",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Pune Warriors,Royal Challengers Bangalore,Chris Gayle,1
+273,Kings XI Punjab,Kolkata Knight Riders,"18th April, 2012",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kolkata Knight Riders,Gautam Gambhir,0
+274,Delhi Daredevils,Deccan Chargers,"19th April, 2012",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Deccan Chargers,Delhi Daredevils,Kevin Pietersen,1
+275,Chennai Super Kings,Pune Warriors,"19th April, 2012",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Pune Warriors,Chennai Super Kings,Nuwan Kulasekara,1
+276,Kings XI Punjab,Royal Challengers Bangalore,"20th April, 2012",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Chris Gayle,0
+277,Chennai Super Kings,Rajasthan Royals,"21st April, 2012",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Rajasthan Royals,Chennai Super Kings,Faf du Plessis,1
+278,Delhi Daredevils,Pune Warriors,"21st April, 2012",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Pune Warriors,Sourav Ganguly,0
+279,Mumbai Indians,Kings XI Punjab,"22nd April, 2012",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Kings XI Punjab,Shaun Marsh,0
+280,Deccan Chargers,Kolkata Knight Riders,"22nd April, 2012",league,"Barabati Stadium, Cuttack",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Brett Lee,0
+281,Rajasthan Royals,Royal Challengers Bangalore,"23rd April, 2012",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Royal Challengers Bangalore,AB de Villiers,0
+282,Pune Warriors,Delhi Daredevils,"24th April, 2012",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Pune Warriors,Delhi Daredevils,Virender Sehwag,0
+283,Kolkata Knight Riders,Deccan Chargers,"24th April, 2012",league,"Eden Gardens, Kolkata",Day/Night Match,No Toss,No result,No Award,0
+284,Kings XI Punjab,Mumbai Indians,"25th April, 2012",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Mumbai Indians,Ambati Rayudu,0
+285,Royal Challengers Bangalore,Chennai Super Kings,"25th April, 2012",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,No result,No Award,0
+286,Pune Warriors,Deccan Chargers,"26th April, 2012",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Deccan Chargers,Deccan Chargers,Cameron White,0
+287,Delhi Daredevils,Mumbai Indians,"27th April, 2012",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Mumbai Indians,Delhi Daredevils,Virender Sehwag,1
+288,Chennai Super Kings,Kings XI Punjab,"28th April, 2012",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Mandeep Singh,0
+289,Kolkata Knight Riders,Royal Challengers Bangalore,"28th April, 2012",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Gautam Gambhir,1
+290,Delhi Daredevils,Rajasthan Royals,"29th April, 2012",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Virender Sehwag,1
+291,Mumbai Indians,Deccan Chargers,"29th April, 2012",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Dale Steyn,1
+292,Chennai Super Kings,Kolkata Knight Riders,"30th April, 2012",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Kolkata Knight Riders,Gautam Gambhir,0
+293,Deccan Chargers,Pune Warriors,"1st May, 2012",league,"Barabati Stadium, Cuttack",Day/Night Match,Deccan Chargers,Deccan Chargers,Kumar Sangakkara,1
+294,Rajasthan Royals,Delhi Daredevils,"1st May, 2012",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Delhi Daredevils,Pawan Negi,0
+295,Royal Challengers Bangalore,Kings XI Punjab,"2nd May, 2012",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Azhar Mahmood,0
+296,Pune Warriors,Mumbai Indians,"3rd May, 2012",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Mumbai Indians,Mumbai Indians,Lasith Malinga,0
+297,Chennai Super Kings,Deccan Chargers,"4th May, 2012",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1
+298,Kolkata Knight Riders,Pune Warriors,"5th May, 2012",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,1
+299,Kings XI Punjab,Rajasthan Royals,"5th May, 2012",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Shane Watson,0
+300,Mumbai Indians,Chennai Super Kings,"6th May, 2012",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Dwayne Smith,1
+301,Royal Challengers Bangalore,Deccan Chargers,"6th May, 2012",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1
+302,Delhi Daredevils,Kolkata Knight Riders,"7th May, 2012",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Kolkata Knight Riders,Jacques Kallis,0
+303,Pune Warriors,Rajasthan Royals,"8th May, 2012",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Pune Warriors,Rajasthan Royals,Shane Watson,0
+304,Deccan Chargers,Kings XI Punjab,"8th May, 2012",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Deccan Chargers,Kings XI Punjab,Mandeep Singh,0
+305,Mumbai Indians,Royal Challengers Bangalore,"9th May, 2012",league,"Wankhede Stadium, Mumbai",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Chris Gayle,0
+306,Deccan Chargers,Delhi Daredevils,"10th May, 2012",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Deccan Chargers,Delhi Daredevils,David Warner,0
+307,Rajasthan Royals,Chennai Super Kings,"10th May, 2012",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ben Hilfenhaus,0
+308,Pune Warriors,Royal Challengers Bangalore,"11th May, 2012",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Pune Warriors,Royal Challengers Bangalore,Chris Gayle,0
+309,Kolkata Knight Riders,Mumbai Indians,"12th May, 2012",league,"Eden Gardens, Kolkata",Day/Night Match,Mumbai Indians,Mumbai Indians,Rohit Sharma,0
+310,Chennai Super Kings,Delhi Daredevils,"12th May, 2012",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ben Hilfenhaus,1
+311,Rajasthan Royals,Pune Warriors,"13th May, 2012",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Ajit Chandila,1
+312,Kings XI Punjab,Deccan Chargers,"13th May, 2012",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Deccan Chargers,Kings XI Punjab,David Hussey,1
+313,Royal Challengers Bangalore,Mumbai Indians,"14th May, 2012",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Mumbai Indians,Mumbai Indians,Ambati Rayudu,0
+314,Kolkata Knight Riders,Chennai Super Kings,"14th May, 2012",league,"Eden Gardens, Kolkata",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Michael Hussey,0
+315,Delhi Daredevils,Kings XI Punjab,"15th May, 2012",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Kings XI Punjab,Delhi Daredevils,Umesh Yadav,1
+316,Mumbai Indians,Kolkata Knight Riders,"16th May, 2012",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Kolkata Knight Riders,Sunil Narine,0
+317,Kings XI Punjab,Chennai Super Kings,"17th May, 2012",league,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Adam Gilchrist,1
+318,Delhi Daredevils,Royal Challengers Bangalore,"17th May, 2012",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Royal Challengers Bangalore,Chris Gayle,0
+319,Deccan Chargers,Rajasthan Royals,"18th May, 2012",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Rajasthan Royals,Deccan Chargers,Dale Steyn,1
+320,Kings XI Punjab,Delhi Daredevils,"19th May, 2012",league,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Umesh Yadav,0
+321,Pune Warriors,Kolkata Knight Riders,"19th May, 2012",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Shakib Al Hasan,0
+322,Deccan Chargers,Royal Challengers Bangalore,"20th May, 2012",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Royal Challengers Bangalore,Deccan Chargers,Dale Steyn,1
+323,Rajasthan Royals,Mumbai Indians,"20th May, 2012",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Mumbai Indians,Dwayne Smith,0
+324,Delhi Daredevils,Kolkata Knight Riders,"22nd May, 2012",knockout,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Yusuf Pathan,0
+325,Chennai Super Kings,Mumbai Indians,"23rd May, 2012",knockout,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Mumbai Indians,Chennai Super Kings,M S Dhoni,1
+326,Delhi Daredevils,Chennai Super Kings,"25th May, 2012",knockout,"MA Chidambaram Stadium, Chennai",Day/Night Match,Delhi Daredevils,Chennai Super Kings,Murali Vijay,0
+327,Kolkata Knight Riders,Chennai Super Kings,"27th May, 2012",knockout,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Kolkata Knight Riders,Manvinder Bisla,1
+328,Kolkata Knight Riders,Delhi Daredevils,"3rd April, 2013",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,1
+329,Royal Challengers Bangalore,Mumbai Indians,"4th April, 2013",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Mumbai Indians,Royal Challengers Bangalore,Chris Gayle,1
+330,Sunrisers Hyderabad,Pune Warriors,"5th April, 2013",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Pune Warriors,Sunrisers Hyderabad,Amit Mishra,1
+331,Delhi Daredevils,Rajasthan Royals,"6th April, 2013",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Rahul Dravid,0
+332,Chennai Super Kings,Mumbai Indians,"6th April, 2013",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Mumbai Indians,Mumbai Indians,Kieron Pollard,0
+333,Pune Warriors,Kings XI Punjab,"7th April, 2013",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Pune Warriors,Kings XI Punjab,Manan Vohra,0
+334,Sunrisers Hyderabad,Royal Challengers Bangalore,"7th April, 2013",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Royal Challengers Bangalore,Sunrisers Hyderabad,Hanuma Vihari,1
+335,Rajasthan Royals,Kolkata Knight Riders,"8th April, 2013",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Kolkata Knight Riders,Rajasthan Royals,Siddharth Trivedi,1
+336,Royal Challengers Bangalore,Sunrisers Hyderabad,"9th April, 2013",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Sunrisers Hyderabad,Royal Challengers Bangalore,Virat Kohli,1
+337,Mumbai Indians,Delhi Daredevils,"9th April, 2013",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Dinesh Karthik,1
+338,Kings XI Punjab,Chennai Super Kings,"10th April, 2013",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Michael Hussey,0
+339,Royal Challengers Bangalore,Kolkata Knight Riders,"11th April, 2013",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Chris Gayle,1
+340,Pune Warriors,Rajasthan Royals,"11th April, 2013",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Rajasthan Royals,Pune Warriors,Aaron Finch,1
+341,Delhi Daredevils,Sunrisers Hyderabad,"12th April, 2013",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Sunrisers Hyderabad,Amit Mishra,0
+342,Mumbai Indians,Pune Warriors,"13th April, 2013",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Rohit Sharma,1
+343,Chennai Super Kings,Royal Challengers Bangalore,"13th April, 2013",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,1
+344,Kolkata Knight Riders,Sunrisers Hyderabad,"14th April, 2013",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Gautam Gambhir,1
+345,Rajasthan Royals,Kings XI Punjab,"14th April, 2013",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,James Faulkner,1
+346,Chennai Super Kings,Pune Warriors,"15th April, 2013",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Pune Warriors,Pune Warriors,Steve Smith,0
+347,Kings XI Punjab,Kolkata Knight Riders,"16th April, 2013",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kolkata Knight Riders,Kings XI Punjab,Manpreet Gony,1
+348,Royal Challengers Bangalore,Delhi Daredevils,"16th April, 2013",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,1
+349,Pune Warriors,Sunrisers Hyderabad,"17th April, 2013",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Pune Warriors,Sunrisers Hyderabad,Amit Mishra,0
+350,Rajasthan Royals,Mumbai Indians,"17th April, 2013",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Ajinkya Rahane,1
+351,Chennai Super Kings,Delhi Daredevils,"18th April, 2013",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Michael Hussey,1
+352,Sunrisers Hyderabad,Kings XI Punjab,"19th April, 2013",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Kings XI Punjab,Sunrisers Hyderabad,Hanuma Vihari,1
+353,Kolkata Knight Riders,Chennai Super Kings,"20th April, 2013",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Chennai Super Kings,Ravindra Jadeja,0
+354,Royal Challengers Bangalore,Rajasthan Royals,"20th April, 2013",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Vinay Kumar,1
+355,Delhi Daredevils,Mumbai Indians,"21st April, 2013",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Mumbai Indians,Delhi Daredevils,Virender Sehwag,1
+356,Kings XI Punjab,Pune Warriors,"21st April, 2013",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,David Miller,1
+357,Chennai Super Kings,Rajasthan Royals,"22nd April, 2013",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Rajasthan Royals,Chennai Super Kings,Michael Hussey,1
+358,Royal Challengers Bangalore,Pune Warriors,"23rd April, 2013",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Pune Warriors,Royal Challengers Bangalore,Chris Gayle,1
+359,Delhi Daredevils,Kings XI Punjab,"23rd April, 2013",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Harmeet Singh,0
+360,Kolkata Knight Riders,Mumbai Indians,"24th April, 2013",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Mumbai Indians,Dwayne Smith,0
+361,Chennai Super Kings,Sunrisers Hyderabad,"25th April, 2013",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Sunrisers Hyderabad,Chennai Super Kings,M S Dhoni,1
+362,Kolkata Knight Riders,Kings XI Punjab,"26th April, 2013",league,"Eden Gardens, Kolkata",Day/Night Match,Kings XI Punjab,Kolkata Knight Riders,Jacques Kallis,1
+363,Sunrisers Hyderabad,Rajasthan Royals,"27th April, 2013",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Sunrisers Hyderabad,Rajasthan Royals,James Faulkner,0
+364,Mumbai Indians,Royal Challengers Bangalore,"27th April, 2013",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Dwayne Smith,1
+365,Chennai Super Kings,Kolkata Knight Riders,"28th April, 2013",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Kolkata Knight Riders,Chennai Super Kings,Michael Hussey,1
+366,Delhi Daredevils,Pune Warriors,"28th April, 2013",league,"Shaheed Veer Narayan Sing International Stadium, Raipur",Day/Night Match,Pune Warriors,Delhi Daredevils,David Warner,1
+367,Rajasthan Royals,Royal Challengers Bangalore,"29th April, 2013",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Sanju Samson,1
+368,Mumbai Indians,Kings XI Punjab,"29th April, 2013",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Rohit Sharma,1
+369,Chennai Super Kings,Pune Warriors,"30th April, 2013",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Chennai Super Kings,Chennai Super Kings,M S Dhoni,1
+370,Mumbai Indians,Sunrisers Hyderabad,"1st May, 2013",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Mumbai Indians,Sunrisers Hyderabad,Ishant Sharma,0
+371,Delhi Daredevils,Kolkata Knight Riders,"1st May, 2013",league,"Shaheed Veer Narayan Sing International Stadium, Raipur",Day/Night Match,Kolkata Knight Riders,Delhi Daredevils,David Warner,1
+372,Chennai Super Kings,Kings XI Punjab,"2nd May, 2013",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1
+373,Pune Warriors,Royal Challengers Bangalore,"2nd May, 2013",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0
+374,Kolkata Knight Riders,Rajasthan Royals,"3rd May, 2013",league,"Eden Gardens, Kolkata",Day/Night Match,Rajasthan Royals,Kolkata Knight Riders,Yusuf Pathan,1
+375,Sunrisers Hyderabad,Delhi Daredevils,"4th May, 2013",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Delhi Daredevils,Sunrisers Hyderabad,Daren Sammy,1
+376,Mumbai Indians,Chennai Super Kings,"5th May, 2013",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Mitchell Johnson,1
+377,Rajasthan Royals,Pune Warriors,"5th May, 2013",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Pune Warriors,Rajasthan Royals,Ajinkya Rahane,1
+378,Kings XI Punjab,Royal Challengers Bangalore,"6th May, 2013",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,David Miller,1
+379,Rajasthan Royals,Delhi Daredevils,"7th May, 2013",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Delhi Daredevils,Rajasthan Royals,Ajinkya Rahane,1
+380,Mumbai Indians,Kolkata Knight Riders,"7th May, 2013",league,"Wankhede Stadium, Mumbai",Day Match,Mumbai Indians,Mumbai Indians,Sachin Tendulkar,1
+381,Sunrisers Hyderabad,Chennai Super Kings,"8th May, 2013",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Chennai Super Kings,Suresh Raina,0
+382,Kings XI Punjab,Rajasthan Royals,"9th May, 2013",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Kevon Cooper,0
+383,Pune Warriors,Kolkata Knight Riders,"9th May, 2013",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Gautam Gambhir,0
+384,Royal Challengers Bangalore,Delhi Daredevils,"10th May, 2013",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Royal Challengers Bangalore,Jaydev Unadkat,1
+385,Pune Warriors,Mumbai Indians,"11th May, 2013",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Pune Warriors,Mumbai Indians,Mitchell Johnson,0
+386,Kings XI Punjab,Sunrisers Hyderabad,"11th May, 2013",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Sunrisers Hyderabad,Parthiv Patel,0
+387,Kolkata Knight Riders,Royal Challengers Bangalore,"12th May, 2013",league,"JSCA International Stadium Complex, Ranchi",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Jacques Kallis,1
+388,Rajasthan Royals,Chennai Super Kings,"12th May, 2013",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Shane Watson,1
+389,Mumbai Indians,Sunrisers Hyderabad,"13th May, 2013",league,"Wankhede Stadium, Mumbai",Day/Night Match,Sunrisers Hyderabad,Mumbai Indians,Kieron Pollard,1
+390,Royal Challengers Bangalore,Kings XI Punjab,"14th May, 2013",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Adam Gilchrist,0
+391,Chennai Super Kings,Delhi Daredevils,"14th May, 2013",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,M S Dhoni,1
+392,Kolkata Knight Riders,Pune Warriors,"15th May, 2013",league,"JSCA International Stadium Complex, Ranchi",Day/Night Match,Kolkata Knight Riders,Pune Warriors,Manish Pandey,0
+393,Mumbai Indians,Rajasthan Royals,"15th May, 2013",league,"Wankhede Stadium, Mumbai",Day/Night Match,Rajasthan Royals,Mumbai Indians,Aditya Tare,1
+394,Kings XI Punjab,Delhi Daredevils,"16th May, 2013",league,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Day/Night Match,Delhi Daredevils,Kings XI Punjab,David Miller,1
+395,Sunrisers Hyderabad,Rajasthan Royals,"17th May, 2013",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Amit Mishra,1
+396,Kings XI Punjab,Mumbai Indians,"18th May, 2013",league,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Day/Night Match,Mumbai Indians,Kings XI Punjab,Azhar Mahmood,1
+397,Royal Challengers Bangalore,Chennai Super Kings,"18th May, 2013",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Chennai Super Kings,Royal Challengers Bangalore,Virat Kohli,1
+398,Pune Warriors,Delhi Daredevils,"19th May, 2013",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Pune Warriors,Pune Warriors,Luke Wright,1
+399,Sunrisers Hyderabad,Kolkata Knight Riders,"19th May, 2013",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Kolkata Knight Riders,Sunrisers Hyderabad,Parthiv Patel,1
+400,Chennai Super Kings,Mumbai Indians,"21st May, 2013",knockout,"Arun Jaitley Stadium, Delhi",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Michael Hussey,1
+401,Rajasthan Royals,Sunrisers Hyderabad,"22nd May, 2013",knockout,"Arun Jaitley Stadium, Delhi",Day/Night Match,Sunrisers Hyderabad,Rajasthan Royals,Bradley Hodge,1
+402,Mumbai Indians,Rajasthan Royals,"24th May, 2013",knockout,"Eden Gardens, Kolkata",Day/Night Match,Rajasthan Royals,Mumbai Indians,Harbhajan Singh,1
+403,Chennai Super Kings,Mumbai Indians,"26th May, 2013",knockout,"Eden Gardens, Kolkata",Day/Night Match,Mumbai Indians,Mumbai Indians,Kieron Pollard,0
+404,Kolkata Knight Riders,Mumbai Indians,"16th April, 2014",league,"Sheikh Zayed Stadium, Abu Dhabi",Day Match,Kolkata Knight Riders,Kolkata Knight Riders,Jacques Kallis,1
+405,Royal Challengers Bangalore,Delhi Daredevils,"17th April, 2014",league,"Sharjah Cricket Stadium, Sharjah",Day Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Yuzvendra Chahal,1
+406,Chennai Super Kings,Kings XI Punjab,"18th April, 2014",league,"Sheikh Zayed Stadium, Abu Dhabi",Day Match,Chennai Super Kings,Kings XI Punjab,Glenn Maxwell,0
+407,Sunrisers Hyderabad,Rajasthan Royals,"18th April, 2014",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Ajinkya Rahane,0
+408,Mumbai Indians,Royal Challengers Bangalore,"19th April, 2014",league,"Dubai International Cricket Stadium, Dubai",Day Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Parthiv Patel,0
+409,Kolkata Knight Riders,Delhi Daredevils,"19th April, 2014",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Kolkata Knight Riders,Delhi Daredevils,Jean-Paul Duminy,0
+410,Rajasthan Royals,Kings XI Punjab,"20th April, 2014",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Glenn Maxwell,0
+411,Chennai Super Kings,Delhi Daredevils,"21st April, 2014",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1
+412,Kings XI Punjab,Sunrisers Hyderabad,"22nd April, 2014",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Sunrisers Hyderabad,Kings XI Punjab,Glenn Maxwell,1
+413,Chennai Super Kings,Rajasthan Royals,"23rd April, 2014",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Rajasthan Royals,Chennai Super Kings,Ravindra Jadeja,1
+414,Royal Challengers Bangalore,Kolkata Knight Riders,"24th April, 2014",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Royal Challengers Bangalore,Kolkata Knight Riders,Chris Lynn,0
+415,Sunrisers Hyderabad,Delhi Daredevils,"25th April, 2014",league,"Dubai International Cricket Stadium, Dubai",Day Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Aaron Finch,1
+416,Chennai Super Kings,Mumbai Indians,"25th April, 2014",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Mumbai Indians,Chennai Super Kings,Mohit Sharma,1
+417,Royal Challengers Bangalore,Rajasthan Royals,"26th April, 2014",league,"Sheikh Zayed Stadium, Abu Dhabi",Day Match,Rajasthan Royals,Rajasthan Royals,Pravin Tambe,0
+418,Kolkata Knight Riders,Kings XI Punjab,"26th April, 2014",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Kolkata Knight Riders,Kings XI Punjab,Sandeep Sharma,0
+419,Delhi Daredevils,Mumbai Indians,"27th April, 2014",league,"Sharjah Cricket Stadium, Sharjah",Day Match,Mumbai Indians,Delhi Daredevils,Murali Vijay,1
+420,Sunrisers Hyderabad,Chennai Super Kings,"27th April, 2014",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Sunrisers Hyderabad,Chennai Super Kings,Dwayne Smith,0
+421,Kings XI Punjab,Royal Challengers Bangalore,"28th April, 2014",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Sandeep Sharma,1
+422,Kolkata Knight Riders,Rajasthan Royals,"29th April, 2014",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Rajasthan Royals,Rajasthan Royals,James Faulkner,0
+423,Mumbai Indians,Sunrisers Hyderabad,"30th April, 2014",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Mumbai Indians,Sunrisers Hyderabad,Bhuvneshwar Kumar,0
+424,Chennai Super Kings,Kolkata Knight Riders,"2nd May, 2014",league,"JSCA International Stadium Complex, Ranchi",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,1
+425,Mumbai Indians,Kings XI Punjab,"3rd May, 2014",league,"Wankhede Stadium, Mumbai",Day/Night Match,Kings XI Punjab,Mumbai Indians,Corey Anderson,1
+426,Delhi Daredevils,Rajasthan Royals,"3rd May, 2014",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Karun Nair,0
+427,Royal Challengers Bangalore,Sunrisers Hyderabad,"4th May, 2014",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1
+428,Rajasthan Royals,Kolkata Knight Riders,"5th May, 2014",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Kolkata Knight Riders,Rajasthan Royals,Pravin Tambe,1
+429,Delhi Daredevils,Chennai Super Kings,"5th May, 2014",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Dwayne Smith,0
+430,Mumbai Indians,Royal Challengers Bangalore,"6th May, 2014",league,"Wankhede Stadium, Mumbai",Day/Night Match,Royal Challengers Bangalore,Mumbai Indians,Rohit Sharma,1
+431,Delhi Daredevils,Kolkata Knight Riders,"7th May, 2014",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Kolkata Knight Riders,Gautam Gambhir,0
+432,Kings XI Punjab,Chennai Super Kings,"7th May, 2014",league,"Barabati Stadium, Cuttack",Day/Night Match,Chennai Super Kings,Kings XI Punjab,Glenn Maxwell,1
+433,Sunrisers Hyderabad,Rajasthan Royals,"8th May, 2014",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Rajasthan Royals,Sunrisers Hyderabad,Bhuvneshwar Kumar,1
+434,Royal Challengers Bangalore,Kings XI Punjab,"9th May, 2014",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Kings XI Punjab,Shivam Sharma,0
+435,Delhi Daredevils,Sunrisers Hyderabad,"10th May, 2014",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Dale Steyn,0
+436,Mumbai Indians,Chennai Super Kings,"10th May, 2014",league,"Wankhede Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Dwayne Smith,0
+437,Kolkata Knight Riders,Kings XI Punjab,"11th May, 2014",league,"Barabati Stadium, Cuttack",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Gautam Gambhir,1
+438,Royal Challengers Bangalore,Rajasthan Royals,"11th May, 2014",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Rajasthan Royals,James Faulkner,0
+439,Sunrisers Hyderabad,Mumbai Indians,"12th May, 2014",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Mumbai Indians,Ambati Rayudu,0
+440,Chennai Super Kings,Rajasthan Royals,"13th May, 2014",league,"JSCA International Stadium Complex, Ranchi",Day Match,Rajasthan Royals,Chennai Super Kings,Ravindra Jadeja,1
+441,Royal Challengers Bangalore,Delhi Daredevils,"13th May, 2014",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Delhi Daredevils,Royal Challengers Bangalore,Yuvraj Singh,1
+442,Sunrisers Hyderabad,Kings XI Punjab,"14th May, 2014",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Wriddhiman Saha,0
+443,Kolkata Knight Riders,Mumbai Indians,"14th May, 2014",league,"Barabati Stadium, Cuttack",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Robin Uthappa,1
+444,Rajasthan Royals,Delhi Daredevils,"15th May, 2014",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Delhi Daredevils,Rajasthan Royals,Ajinkya Rahane,1
+445,Chennai Super Kings,Royal Challengers Bangalore,"18th May, 2014",league,"JSCA International Stadium Complex, Ranchi",Day/Night Match,Chennai Super Kings,Royal Challengers Bangalore,AB de Villiers,0
+446,Sunrisers Hyderabad,Kolkata Knight Riders,"18th May, 2014",league,"Rajiv Gandhi International Stadium, Hyderabad",Day Match,Sunrisers Hyderabad,Kolkata Knight Riders,Umesh Yadav,0
+447,Rajasthan Royals,Mumbai Indians,"19th May, 2014",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Mumbai Indians,Mumbai Indians,Michael Hussey,0
+448,Delhi Daredevils,Kings XI Punjab,"19th May, 2014",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Axar Patel,0
+449,Sunrisers Hyderabad,Royal Challengers Bangalore,"20th May, 2014",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Royal Challengers Bangalore,Sunrisers Hyderabad,David Warner,1
+450,Kolkata Knight Riders,Chennai Super Kings,"20th May, 2014",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Robin Uthappa,1
+451,Kings XI Punjab,Mumbai Indians,"21st May, 2014",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Mumbai Indians,Mumbai Indians,Lendl Simmons,0
+452,Kolkata Knight Riders,Royal Challengers Bangalore,"22nd May, 2014",league,"Eden Gardens, Kolkata",Day/Night Match,Royal Challengers Bangalore,Kolkata Knight Riders,Robin Uthappa,1
+453,Chennai Super Kings,Sunrisers Hyderabad,"22nd May, 2014",league,"JSCA International Stadium Complex, Ranchi",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,David Warner,0
+454,Mumbai Indians,Delhi Daredevils,"23rd May, 2014",league,"Wankhede Stadium, Mumbai",Day/Night Match,Delhi Daredevils,Mumbai Indians,Michael Hussey,1
+455,Kings XI Punjab,Rajasthan Royals,"23rd May, 2014",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Rajasthan Royals,Kings XI Punjab,Shaun Marsh,1
+456,Royal Challengers Bangalore,Chennai Super Kings,"24th May, 2014",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Chennai Super Kings,Chennai Super Kings,M S Dhoni,0
+457,Kolkata Knight Riders,Sunrisers Hyderabad,"24th May, 2014",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Yusuf Pathan,1
+458,Kings XI Punjab,Delhi Daredevils,"25th May, 2014",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Manan Vohra,1
+459,Mumbai Indians,Rajasthan Royals,"25th May, 2014",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Corey Anderson,1
+460,Mumbai Indians,Chennai Super Kings,"28th May, 2014",knockout,"Brabourne Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Suresh Raina,0
+461,Kolkata Knight Riders,Kings XI Punjab,"28th May, 2014",knockout,"Eden Gardens, Kolkata",Day/Night Match,Kings XI Punjab,Kolkata Knight Riders,Umesh Yadav,1
+462,Chennai Super Kings,Kings XI Punjab,"30th May, 2014",knockout,"Wankhede Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Kings XI Punjab,Virender Sehwag,0
+463,Kolkata Knight Riders,Kings XI Punjab,"1st June, 2014",knockout,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Manish Pandey,1
+464,Kolkata Knight Riders,Mumbai Indians,"8th April, 2015",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Morne Morkel,1
+465,Chennai Super Kings,Delhi Daredevils,"9th April, 2015",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Delhi Daredevils,Chennai Super Kings,Ashish Nehra,1
+466,Kings XI Punjab,Rajasthan Royals,"10th April, 2015",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Kings XI Punjab,Rajasthan Royals,James Faulkner,0
+467,Chennai Super Kings,Sunrisers Hyderabad,"11th April, 2015",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Brendon McCullum,1
+468,Kolkata Knight Riders,Royal Challengers Bangalore,"11th April, 2015",league,"Eden Gardens, Kolkata",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Chris Gayle,0
+469,Delhi Daredevils,Rajasthan Royals,"12th April, 2015",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Deepak Hooda,0
+470,Mumbai Indians,Kings XI Punjab,"12th April, 2015",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Kings XI Punjab,George Bailey,0
+471,Royal Challengers Bangalore,Sunrisers Hyderabad,"13th April, 2015",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,David Warner,0
+472,Rajasthan Royals,Mumbai Indians,"14th April, 2015",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Mumbai Indians,Rajasthan Royals,Steve Smith,1
+473,Kings XI Punjab,Delhi Daredevils,"15th April, 2015",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Kings XI Punjab,Delhi Daredevils,Mayank Agarwal,0
+474,Sunrisers Hyderabad,Rajasthan Royals,"16th April, 2015",league,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Ajinkya Rahane,0
+475,Mumbai Indians,Chennai Super Kings,"17th April, 2015",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Chennai Super Kings,Ashish Nehra,0
+476,Sunrisers Hyderabad,Delhi Daredevils,"18th April, 2015",league,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Jean-Paul Duminy,0
+477,Kings XI Punjab,Kolkata Knight Riders,"18th April, 2015",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,0
+478,Rajasthan Royals,Chennai Super Kings,"19th April, 2015",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Chennai Super Kings,Rajasthan Royals,Ajinkya Rahane,1
+479,Royal Challengers Bangalore,Mumbai Indians,"19th April, 2015",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Mumbai Indians,Harbhajan Singh,0
+480,Delhi Daredevils,Kolkata Knight Riders,"20th April, 2015",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Umesh Yadav,0
+481,Rajasthan Royals,Kings XI Punjab,"21st April, 2015",league,"Narendra Modi Stadium, Ahmedabad",Day Match,Kings XI Punjab,Kings XI Punjab,Shaun Marsh,0
+482,Sunrisers Hyderabad,Kolkata Knight Riders,"22nd April, 2015",league,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day/Night Match,Kolkata Knight Riders,Sunrisers Hyderabad,David Warner,1
+483,Royal Challengers Bangalore,Chennai Super Kings,"22nd April, 2015",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Chennai Super Kings,Suresh Raina,0
+484,Delhi Daredevils,Mumbai Indians,"23rd April, 2015",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Mumbai Indians,Delhi Daredevils,Shreyas Iyer,1
+485,Rajasthan Royals,Royal Challengers Bangalore,"24th April, 2015",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Mitchell Starc,0
+486,Mumbai Indians,Sunrisers Hyderabad,"25th April, 2015",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Lasith Malinga,1
+487,Chennai Super Kings,Kings XI Punjab,"25th April, 2015",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Brendon McCullum,1
+488,Kolkata Knight Riders,Rajasthan Royals,"26th April, 2015",league,"Eden Gardens, Kolkata",Day/Night Match,No Toss,No result,No Award,0
+489,Delhi Daredevils,Royal Challengers Bangalore,"26th April, 2015",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Varun Aaron,0
+490,Kings XI Punjab,Sunrisers Hyderabad,"27th April, 2015",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Sunrisers Hyderabad,Trent Boult,0
+491,Chennai Super Kings,Kolkata Knight Riders,"28th April, 2015",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Kolkata Knight Riders,Chennai Super Kings,Dwayne Bravo,1
+492,Royal Challengers Bangalore,Rajasthan Royals,"29th April, 2015",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Rajasthan Royals,No result,No Award,0
+493,Kolkata Knight Riders,Chennai Super Kings,"30th April, 2015",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,1
+494,Delhi Daredevils,Kings XI Punjab,"1st May, 2015",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Nathan Coulter-Nile,1
+495,Mumbai Indians,Rajasthan Royals,"1st May, 2015",league,"Wankhede Stadium, Mumbai",Day/Night Match,Rajasthan Royals,Mumbai Indians,Ambati Rayudu,1
+496,Royal Challengers Bangalore,Kolkata Knight Riders,"2nd May, 2015",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Mandeep Singh,1
+497,Sunrisers Hyderabad,Chennai Super Kings,"2nd May, 2015",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Chennai Super Kings,Sunrisers Hyderabad,David Warner,1
+498,Kings XI Punjab,Mumbai Indians,"3rd May, 2015",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Mumbai Indians,Mumbai Indians,Lendl Simmons,0
+499,Rajasthan Royals,Delhi Daredevils,"3rd May, 2015",league,"Brabourne Stadium, Mumbai",Day/Night Match,Delhi Daredevils,Rajasthan Royals,Ajinkya Rahane,1
+500,Chennai Super Kings,Royal Challengers Bangalore,"4th May, 2015",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1
+501,Kolkata Knight Riders,Sunrisers Hyderabad,"4th May, 2015",league,"Eden Gardens, Kolkata",Day/Night Match,Sunrisers Hyderabad,Kolkata Knight Riders,Umesh Yadav,1
+502,Mumbai Indians,Delhi Daredevils,"5th May, 2015",league,"Wankhede Stadium, Mumbai",Day/Night Match,Delhi Daredevils,Mumbai Indians,Harbhajan Singh,1
+503,Royal Challengers Bangalore,Kings XI Punjab,"6th May, 2015",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day Match,Kings XI Punjab,Royal Challengers Bangalore,Chris Gayle,1
+504,Rajasthan Royals,Sunrisers Hyderabad,"7th May, 2015",league,"Brabourne Stadium, Mumbai",Day/Night Match,Rajasthan Royals,Sunrisers Hyderabad,Eoin Morgan,0
+505,Kolkata Knight Riders,Delhi Daredevils,"7th May, 2015",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Piyush Chawla,1
+506,Chennai Super Kings,Mumbai Indians,"8th May, 2015",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Mumbai Indians,Hardik Pandya,0
+507,Kolkata Knight Riders,Kings XI Punjab,"9th May, 2015",league,"Eden Gardens, Kolkata",Day/Night Match,Kings XI Punjab,Kolkata Knight Riders,Andre Russell,1
+508,Delhi Daredevils,Sunrisers Hyderabad,"9th May, 2015",league,"Shaheed Veer Narayan Sing International Stadium, Raipur",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Moises Henriques,0
+509,Mumbai Indians,Royal Challengers Bangalore,"10th May, 2015",league,"Wankhede Stadium, Mumbai",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0
+510,Chennai Super Kings,Rajasthan Royals,"10th May, 2015",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,1
+511,Sunrisers Hyderabad,Kings XI Punjab,"11th May, 2015",league,"Rajiv Gandhi International Stadium, Hyderabad",Day Match,Sunrisers Hyderabad,Sunrisers Hyderabad,David Warner,1
+512,Delhi Daredevils,Chennai Super Kings,"12th May, 2015",league,"Shaheed Veer Narayan Sing International Stadium, Raipur",Day Match,Chennai Super Kings,Delhi Daredevils,Zaheer Khan,1
+513,Kings XI Punjab,Royal Challengers Bangalore,"13th May, 2015",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Royal Challengers Bangalore,Kings XI Punjab,Axar Patel,1
+514,Mumbai Indians,Kolkata Knight Riders,"14th May, 2015",league,"Wankhede Stadium, Mumbai",Day/Night Match,Kolkata Knight Riders,Mumbai Indians,Hardik Pandya,1
+515,Sunrisers Hyderabad,Royal Challengers Bangalore,"15th May, 2015",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Royal Challengers Bangalore,Virat Kohli,0
+516,Kings XI Punjab,Chennai Super Kings,"16th May, 2015",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Chennai Super Kings,Pawan Negi,0
+517,Rajasthan Royals,Kolkata Knight Riders,"16th May, 2015",league,"Brabourne Stadium, Mumbai",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Shane Watson,1
+518,Royal Challengers Bangalore,Delhi Daredevils,"17th May, 2015",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,No result,No Award,0
+519,Sunrisers Hyderabad,Mumbai Indians,"17th May, 2015",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Mumbai Indians,Mitchell McClenaghan,0
+520,Chennai Super Kings,Mumbai Indians,"19th May, 2015",knockout,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Kieron Pollard,0
+521,Royal Challengers Bangalore,Rajasthan Royals,"20th May, 2015",knockout,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1
+522,Chennai Super Kings,Royal Challengers Bangalore,"22nd May, 2015",knockout,"JSCA International Stadium Complex, Ranchi",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ashish Nehra,1
+523,Mumbai Indians,Chennai Super Kings,"24th May, 2015",knockout,"Eden Gardens, Kolkata",Day/Night Match,Chennai Super Kings,Mumbai Indians,Rohit Sharma,1
+524,Mumbai Indians,Rising Pune Supergiant,"9th April, 2016",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Rising Pune Supergiant,Ajinkya Rahane,0
+525,Kolkata Knight Riders,Delhi Daredevils,"10th April, 2016",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,1
+526,Kings XI Punjab,Gujarat Lions,"11th April, 2016",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Gujarat Lions,Gujarat Lions,Aaron Finch,0
+527,Royal Challengers Bangalore,Sunrisers Hyderabad,"12th April, 2016",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Sunrisers Hyderabad,Royal Challengers Bangalore,AB de Villiers,1
+528,Kolkata Knight Riders,Mumbai Indians,"13th April, 2016",league,"Eden Gardens, Kolkata",Day/Night Match,Mumbai Indians,Mumbai Indians,Rohit Sharma,0
+529,Gujarat Lions,Rising Pune Supergiant,"14th April, 2016",league,"Saurashtra Cricket Association Stadium, Khandheri, Rajkot",Day/Night Match,Rising Pune Supergiant,Gujarat Lions,Aaron Finch,1
+530,Delhi Daredevils,Kings XI Punjab,"15th April, 2016",league,"Arun Jaitley Stadium, Delhi",Day Match,Delhi Daredevils,Delhi Daredevils,Amit Mishra,1
+531,Sunrisers Hyderabad,Kolkata Knight Riders,"16th April, 2016",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Kolkata Knight Riders,Gautam Gambhir,0
+532,Mumbai Indians,Gujarat Lions,"16th April, 2016",league,"Wankhede Stadium, Mumbai",Day/Night Match,Gujarat Lions,Gujarat Lions,Aaron Finch,0
+533,Kings XI Punjab,Rising Pune Supergiant,"17th April, 2016",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Rising Pune Supergiant,Kings XI Punjab,Manan Vohra,1
+534,Royal Challengers Bangalore,Delhi Daredevils,"17th April, 2016",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Quinton de Kock,0
+535,Sunrisers Hyderabad,Mumbai Indians,"18th April, 2016",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,David Warner,1
+536,Kings XI Punjab,Kolkata Knight Riders,"19th April, 2016",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Robin Uthappa,0
+537,Mumbai Indians,Royal Challengers Bangalore,"20th April, 2016",league,"Barabati Stadium, Cuttack",Day/Night Match,Mumbai Indians,Mumbai Indians,Rohit Sharma,1
+538,Gujarat Lions,Sunrisers Hyderabad,"21st April, 2016",league,"Saurashtra Cricket Association Stadium, Khandheri, Rajkot",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Bhuvneshwar Kumar,0
+539,Rising Pune Supergiant,Royal Challengers Bangalore,"22nd April, 2016",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Rising Pune Supergiant,Royal Challengers Bangalore,AB de Villiers,0
+540,Delhi Daredevils,Mumbai Indians,"23rd April, 2016",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Mumbai Indians,Delhi Daredevils,Sanju Samson,1
+541,Kings XI Punjab,Sunrisers Hyderabad,"23rd April, 2016",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Mustafizur Rahman,0
+542,Gujarat Lions,Royal Challengers Bangalore,"24th April, 2016",league,"Saurashtra Cricket Association Stadium, Khandheri, Rajkot",Day/Night Match,Royal Challengers Bangalore,Gujarat Lions,Virat Kohli,1
+543,Rising Pune Supergiant,Kolkata Knight Riders,"24th April, 2016",league,"Maharashtra Cricket Association Stadium, Pune",Day Match,Kolkata Knight Riders,Kolkata Knight Riders,Suryakumar Yadav,0
+544,Kings XI Punjab,Mumbai Indians,"25th April, 2016",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Mumbai Indians,Parthiv Patel,0
+545,Sunrisers Hyderabad,Rising Pune Supergiant,"26th April, 2016",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Rising Pune Supergiant,Rising Pune Supergiant,Ashok Dinda,0
+546,Delhi Daredevils,Gujarat Lions,"27th April, 2016",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Gujarat Lions,Chris Morris,0
+547,Mumbai Indians,Kolkata Knight Riders,"28th April, 2016",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Rohit Sharma,1
+548,Rising Pune Supergiant,Gujarat Lions,"29th April, 2016",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Gujarat Lions,Gujarat Lions,Dwayne Smith,0
+549,Delhi Daredevils,Kolkata Knight Riders,"30th April, 2016",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Kolkata Knight Riders,Delhi Daredevils,Carlos Brathwaite,1
+550,Sunrisers Hyderabad,Royal Challengers Bangalore,"30th April, 2016",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Royal Challengers Bangalore,Sunrisers Hyderabad,David Warner,1
+551,Gujarat Lions,Kings XI Punjab,"1st May, 2016",league,"Saurashtra Cricket Association Stadium, Khandheri, Rajkot",Day/Night Match,Gujarat Lions,Kings XI Punjab,Axar Patel,0
+552,Rising Pune Supergiant,Mumbai Indians,"1st May, 2016",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Mumbai Indians,Mumbai Indians,Rohit Sharma,0
+553,Royal Challengers Bangalore,Kolkata Knight Riders,"2nd May, 2016",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,0
+554,Gujarat Lions,Delhi Daredevils,"3rd May, 2016",league,"Saurashtra Cricket Association Stadium, Khandheri, Rajkot",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Rishabh Pant,0
+555,Kolkata Knight Riders,Kings XI Punjab,"4th May, 2016",league,"Eden Gardens, Kolkata",Day/Night Match,Kings XI Punjab,Kolkata Knight Riders,Andre Russell,1
+556,Delhi Daredevils,Rising Pune Supergiant,"5th May, 2016",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Rising Pune Supergiant,Rising Pune Supergiant,Ajinkya Rahane,0
+557,Sunrisers Hyderabad,Gujarat Lions,"6th May, 2016",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Bhuvneshwar Kumar,1
+558,Royal Challengers Bangalore,Rising Pune Supergiant,"7th May, 2016",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,1
+559,Kings XI Punjab,Delhi Daredevils,"7th May, 2016",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Delhi Daredevils,Kings XI Punjab,Marcus Stoinis,1
+560,Mumbai Indians,Sunrisers Hyderabad,"8th May, 2016",league,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day/Night Match,Mumbai Indians,Sunrisers Hyderabad,Ashish Nehra,0
+561,Kolkata Knight Riders,Gujarat Lions,"8th May, 2016",league,"Eden Gardens, Kolkata",Day/Night Match,Gujarat Lions,Gujarat Lions,Praveen Kumar,0
+562,Kings XI Punjab,Royal Challengers Bangalore,"9th May, 2016",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Royal Challengers Bangalore,Shane Watson,0
+563,Rising Pune Supergiant,Sunrisers Hyderabad,"10th May, 2016",league,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Adam Zampa,0
+564,Royal Challengers Bangalore,Mumbai Indians,"11th May, 2016",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Mumbai Indians,Mumbai Indians,Krunal Pandya,0
+565,Sunrisers Hyderabad,Delhi Daredevils,"12th May, 2016",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Chris Morris,0
+566,Mumbai Indians,Kings XI Punjab,"13th May, 2016",league,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day/Night Match,Mumbai Indians,Kings XI Punjab,Marcus Stoinis,0
+567,Royal Challengers Bangalore,Gujarat Lions,"14th May, 2016",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Gujarat Lions,Royal Challengers Bangalore,AB de Villiers,1
+568,Kolkata Knight Riders,Rising Pune Supergiant,"14th May, 2016",league,"Eden Gardens, Kolkata",Day/Night Match,Rising Pune Supergiant,Kolkata Knight Riders,Yusuf Pathan,1
+569,Kings XI Punjab,Sunrisers Hyderabad,"15th May, 2016",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Sunrisers Hyderabad,Hashim Amla,0
+570,Mumbai Indians,Delhi Daredevils,"15th May, 2016",league,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day/Night Match,Delhi Daredevils,Mumbai Indians,Krunal Pandya,1
+571,Kolkata Knight Riders,Royal Challengers Bangalore,"16th May, 2016",league,"Eden Gardens, Kolkata",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0
+572,Rising Pune Supergiant,Delhi Daredevils,"17th May, 2016",league,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day/Night Match,Rising Pune Supergiant,Rising Pune Supergiant,Ashok Dinda,1
+573,Royal Challengers Bangalore,Kings XI Punjab,"18th May, 2016",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kings XI Punjab,Royal Challengers Bangalore,Virat Kohli,1
+574,Gujarat Lions,Kolkata Knight Riders,"19th May, 2016",league,"Green Park, Kanpur",Day/Night Match,Gujarat Lions,Gujarat Lions,Dwayne Smith,1
+575,Delhi Daredevils,Sunrisers Hyderabad,"20th May, 2016",league,"Shaheed Veer Narayan Sing International Stadium, Raipur",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Karun Nair,1
+576,Rising Pune Supergiant,Kings XI Punjab,"21st May, 2016",league,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day/Night Match,Kings XI Punjab,Rising Pune Supergiant,M S Dhoni,1
+577,Gujarat Lions,Mumbai Indians,"21st May, 2016",league,"Green Park, Kanpur",Day/Night Match,Gujarat Lions,Gujarat Lions,Suresh Raina,1
+578,Kolkata Knight Riders,Sunrisers Hyderabad,"22nd May, 2016",league,"Eden Gardens, Kolkata",Day/Night Match,Sunrisers Hyderabad,Kolkata Knight Riders,Yusuf Pathan,1
+579,Delhi Daredevils,Royal Challengers Bangalore,"22nd May, 2016",league,"Shaheed Veer Narayan Sing International Stadium, Raipur",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0
+580,Royal Challengers Bangalore,Gujarat Lions,"24th May, 2016",knockout,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day Match,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1
+581,Sunrisers Hyderabad,Kolkata Knight Riders,"25th May, 2016",knockout,"Arun Jaitley Stadium, Delhi",Day/Night Match,Kolkata Knight Riders,Sunrisers Hyderabad,Moises Henriques,1
+582,Gujarat Lions,Sunrisers Hyderabad,"27th May, 2016",knockout,"Arun Jaitley Stadium, Delhi",Day Match,Sunrisers Hyderabad,Sunrisers Hyderabad,David Warner,0
+583,Royal Challengers Bangalore,Sunrisers Hyderabad,"29th May, 2016",knockout,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Ben Cutting,0
+584,Sunrisers Hyderabad,Royal Challengers Bangalore,"5th April, 2017",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Royal Challengers Bangalore,Sunrisers Hyderabad,Yuvraj Singh,1
+585,Rising Pune Supergiant,Mumbai Indians,"6th April, 2017",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Rising Pune Supergiant,Rising Pune Supergiant,Steve Smith,1
+586,Gujarat Lions,Kolkata Knight Riders,"7th April, 2017",league,"Saurashtra Cricket Association Stadium, Khandheri, Rajkot",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Chris Lynn,0
+587,Kings XI Punjab,Rising Pune Supergiant,"8th April, 2017",league,"Holkar Cricket Stadium, Indore",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Glenn Maxwell,1
+588,Royal Challengers Bangalore,Delhi Daredevils,"8th April, 2017",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Kedar Jadhav,1
+589,Sunrisers Hyderabad,Gujarat Lions,"9th April, 2017",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Rashid Khan,1
+590,Mumbai Indians,Kolkata Knight Riders,"9th April, 2017",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Nitish Rana,1
+591,Kings XI Punjab,Royal Challengers Bangalore,"10th April, 2017",league,"Holkar Cricket Stadium, Indore",Day/Night Match,Royal Challengers Bangalore,Kings XI Punjab,Axar Patel,1
+592,Rising Pune Supergiant,Delhi Daredevils,"11th April, 2017",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Rising Pune Supergiant,Delhi Daredevils,Sanju Samson,0
+593,Mumbai Indians,Sunrisers Hyderabad,"12th April, 2017",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Jasprit Bumrah,1
+594,Kolkata Knight Riders,Kings XI Punjab,"13th April, 2017",league,"Barabati Stadium, Cuttack",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,1
+595,Royal Challengers Bangalore,Mumbai Indians,"14th April, 2017",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Mumbai Indians,Mumbai Indians,Kieron Pollard,0
+596,Gujarat Lions,Rising Pune Supergiant,"14th April, 2017",league,"Saurashtra Cricket Association Stadium, Khandheri, Rajkot",Day/Night Match,Gujarat Lions,Gujarat Lions,Andrew Tye,1
+597,Kolkata Knight Riders,Sunrisers Hyderabad,"15th April, 2017",league,"Eden Gardens, Kolkata",Day/Night Match,Sunrisers Hyderabad,Kolkata Knight Riders,Robin Uthappa,1
+598,Delhi Daredevils,Kings XI Punjab,"15th April, 2017",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Corey Anderson,1
+599,Mumbai Indians,Gujarat Lions,"16th April, 2017",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Nitish Rana,1
+600,Royal Challengers Bangalore,Rising Pune Supergiant,"16th April, 2017",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Rising Pune Supergiant,Ben Stokes,0
+601,Delhi Daredevils,Kolkata Knight Riders,"17th April, 2017",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Kolkata Knight Riders,Nathan Coulter-Nile,0
+602,Sunrisers Hyderabad,Kings XI Punjab,"17th April, 2017",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Kings XI Punjab,Sunrisers Hyderabad,Bhuvneshwar Kumar,1
+603,Gujarat Lions,Royal Challengers Bangalore,"18th April, 2017",league,"Saurashtra Cricket Association Stadium, Khandheri, Rajkot",Day/Night Match,Gujarat Lions,Royal Challengers Bangalore,Chris Gayle,0
+604,Sunrisers Hyderabad,Delhi Daredevils,"19th April, 2017",league,"Rajiv Gandhi International Stadium, Hyderabad",Day Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Kane Williamson,1
+605,Kings XI Punjab,Mumbai Indians,"20th April, 2017",league,"Holkar Cricket Stadium, Indore",Day/Night Match,Mumbai Indians,Mumbai Indians,Jos Buttler,0
+606,Kolkata Knight Riders,Gujarat Lions,"21st April, 2017",league,"Eden Gardens, Kolkata",Day/Night Match,Gujarat Lions,Gujarat Lions,Suresh Raina,0
+607,Sunrisers Hyderabad,Rising Pune Supergiant,"22nd April, 2017",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Rising Pune Supergiant,Rising Pune Supergiant,M S Dhoni,0
+608,Mumbai Indians,Delhi Daredevils,"22nd April, 2017",league,"Wankhede Stadium, Mumbai",Day/Night Match,Delhi Daredevils,Mumbai Indians,Mitchell McClenaghan,1
+609,Kings XI Punjab,Gujarat Lions,"22nd April, 2017",league,"Saurashtra Cricket Association Stadium, Khandheri, Rajkot",Day/Night Match,Gujarat Lions,Kings XI Punjab,Hashim Amla,1
+610,Kolkata Knight Riders,Royal Challengers Bangalore,"23rd April, 2017",league,"Eden Gardens, Kolkata",Day/Night Match,Royal Challengers Bangalore,Kolkata Knight Riders,Nathan Coulter-Nile,1
+611,Mumbai Indians,Rising Pune Supergiant,"24th April, 2017",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Rising Pune Supergiant,Ben Stokes,0
+612,Royal Challengers Bangalore,Sunrisers Hyderabad,"25th April, 2017",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day Match,No Toss,No result,No Award,0
+613,Rising Pune Supergiant,Kolkata Knight Riders,"26th April, 2017",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Robin Uthappa,0
+614,Royal Challengers Bangalore,Gujarat Lions,"27th April, 2017",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Gujarat Lions,Gujarat Lions,Andrew Tye,0
+615,Kolkata Knight Riders,Delhi Daredevils,"28th April, 2017",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Gautam Gambhir,1
+616,Kings XI Punjab,Sunrisers Hyderabad,"28th April, 2017",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Sunrisers Hyderabad,Rashid Khan,0
+617,Rising Pune Supergiant,Royal Challengers Bangalore,"29th April, 2017",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Royal Challengers Bangalore,Rising Pune Supergiant,Lockie Ferguson,1
+618,Gujarat Lions,Mumbai Indians,"29th April, 2017",league,"Saurashtra Cricket Association Stadium, Khandheri, Rajkot",Day/Night Match,Gujarat Lions,Mumbai Indians,Krunal Pandya,0
+619,Kings XI Punjab,Delhi Daredevils,"30th April, 2017",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Sandeep Sharma,1
+620,Sunrisers Hyderabad,Kolkata Knight Riders,"30th April, 2017",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Kolkata Knight Riders,Sunrisers Hyderabad,David Warner,1
+621,Mumbai Indians,Royal Challengers Bangalore,"1st May, 2017",league,"Wankhede Stadium, Mumbai",Day/Night Match,Royal Challengers Bangalore,Mumbai Indians,Rohit Sharma,1
+622,Rising Pune Supergiant,Gujarat Lions,"1st May, 2017",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Rising Pune Supergiant,Rising Pune Supergiant,Ben Stokes,1
+623,Delhi Daredevils,Sunrisers Hyderabad,"2nd May, 2017",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Mohammed Shami,1
+624,Kolkata Knight Riders,Rising Pune Supergiant,"3rd May, 2017",league,"Eden Gardens, Kolkata",Day/Night Match,Rising Pune Supergiant,Rising Pune Supergiant,Rahul Tripathi,0
+625,Delhi Daredevils,Gujarat Lions,"4th May, 2017",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Rishabh Pant,1
+626,Royal Challengers Bangalore,Kings XI Punjab,"5th May, 2017",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Kings XI Punjab,Sandeep Sharma,0
+627,Sunrisers Hyderabad,Rising Pune Supergiant,"6th May, 2017",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Rising Pune Supergiant,Jaydev Unadkat,0
+628,Delhi Daredevils,Mumbai Indians,"6th May, 2017",league,"Barabati Stadium, Cuttack",Day/Night Match,Delhi Daredevils,Mumbai Indians,Lendl Simmons,0
+629,Royal Challengers Bangalore,Kolkata Knight Riders,"7th May, 2017",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,0
+630,Kings XI Punjab,Gujarat Lions,"7th May, 2017",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Gujarat Lions,Gujarat Lions,Dwayne Smith,0
+631,Sunrisers Hyderabad,Mumbai Indians,"8th May, 2017",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Mumbai Indians,Sunrisers Hyderabad,Shikhar Dhawan,1
+632,Kings XI Punjab,Kolkata Knight Riders,"9th May, 2017",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kolkata Knight Riders,Kings XI Punjab,Mohit Sharma,1
+633,Gujarat Lions,Delhi Daredevils,"10th May, 2017",league,"Green Park, Kanpur",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Shreyas Iyer,0
+634,Mumbai Indians,Kings XI Punjab,"11th May, 2017",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Kings XI Punjab,Wriddhiman Saha,0
+635,Delhi Daredevils,Rising Pune Supergiant,"12th May, 2017",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Karun Nair,1
+636,Gujarat Lions,Sunrisers Hyderabad,"13th May, 2017",league,"Green Park, Kanpur",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Mohammed Siraj,0
+637,Kolkata Knight Riders,Mumbai Indians,"13th May, 2017",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Mumbai Indians,Ambati Rayudu,0
+638,Rising Pune Supergiant,Kings XI Punjab,"14th May, 2017",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Rising Pune Supergiant,Rising Pune Supergiant,Jaydev Unadkat,1
+639,Delhi Daredevils,Royal Challengers Bangalore,"14th May, 2017",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Harshal Patel,0
+640,Mumbai Indians,Rising Pune Supergiant,"16th May, 2017",knockout,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Rising Pune Supergiant,Washington Sundar,0
+641,Sunrisers Hyderabad,Kolkata Knight Riders,"17th May, 2017",knockout,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Nathan Coulter-Nile,0
+642,Mumbai Indians,Kolkata Knight Riders,"19th May, 2017",knockout,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Mumbai Indians,Mumbai Indians,Karn Sharma,1
+643,Mumbai Indians,Rising Pune Supergiant,"21st May, 2017",knockout,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Mumbai Indians,Mumbai Indians,Krunal Pandya,1
+644,Mumbai Indians,Chennai Super Kings,"7th April, 2018",league,"Wankhede Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Dwayne Bravo,0
+645,Kings XI Punjab,Delhi Daredevils,"8th April, 2018",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,KL Rahul,1
+646,Kolkata Knight Riders,Royal Challengers Bangalore,"8th April, 2018",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,1
+647,Sunrisers Hyderabad,Rajasthan Royals,"9th April, 2018",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Shikhar Dhawan,1
+648,Chennai Super Kings,Kolkata Knight Riders,"10th April, 2018",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Sam Billings,1
+649,Rajasthan Royals,Delhi Daredevils,"11th April, 2018",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Delhi Daredevils,Rajasthan Royals,Sanju Samson,1
+650,Mumbai Indians,Sunrisers Hyderabad,"12th April, 2018",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Rashid Khan,0
+651,Kings XI Punjab,Royal Challengers Bangalore,"13th April, 2018",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Umesh Yadav,0
+652,Mumbai Indians,Delhi Daredevils,"14th April, 2018",league,"Wankhede Stadium, Mumbai",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Jason Roy,0
+653,Kolkata Knight Riders,Sunrisers Hyderabad,"14th April, 2018",league,"Eden Gardens, Kolkata",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Billy Stanlake,0
+654,Royal Challengers Bangalore,Rajasthan Royals,"15th April, 2018",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Sanju Samson,0
+655,Kings XI Punjab,Chennai Super Kings,"15th April, 2018",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Chennai Super Kings,Kings XI Punjab,Chris Gayle,1
+656,Kolkata Knight Riders,Delhi Daredevils,"16th April, 2018",league,"Eden Gardens, Kolkata",Day/Night Match,Delhi Daredevils,Kolkata Knight Riders,Nitish Rana,1
+657,Mumbai Indians,Royal Challengers Bangalore,"17th April, 2018",league,"Wankhede Stadium, Mumbai",Day/Night Match,Royal Challengers Bangalore,Mumbai Indians,Rohit Sharma,1
+658,Rajasthan Royals,Kolkata Knight Riders,"18th April, 2018",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Nitish Rana,0
+659,Kings XI Punjab,Sunrisers Hyderabad,"19th April, 2018",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Chris Gayle,1
+660,Rajasthan Royals,Chennai Super Kings,"20th April, 2018",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Rajasthan Royals,Chennai Super Kings,Shane Watson,0
+661,Kolkata Knight Riders,Kings XI Punjab,"21st April, 2018",league,"Eden Gardens, Kolkata",Day/Night Match,Kings XI Punjab,Kings XI Punjab,KL Rahul,0
+662,Royal Challengers Bangalore,Delhi Daredevils,"21st April, 2018",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1
+663,Sunrisers Hyderabad,Chennai Super Kings,"22nd April, 2018",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Chennai Super Kings,Ambati Rayudu,0
+664,Rajasthan Royals,Mumbai Indians,"22nd April, 2018",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Mumbai Indians,Rajasthan Royals,Jofra Archer,1
+665,Delhi Daredevils,Kings XI Punjab,"23rd April, 2018",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Kings XI Punjab,Ankit Rajpoot,0
+666,Mumbai Indians,Sunrisers Hyderabad,"24th April, 2018",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Sunrisers Hyderabad,Rashid Khan,0
+667,Royal Challengers Bangalore,Chennai Super Kings,"25th April, 2018",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Chennai Super Kings,Chennai Super Kings,M S Dhoni,0
+668,Sunrisers Hyderabad,Kings XI Punjab,"26th April, 2018",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Kings XI Punjab,Sunrisers Hyderabad,Ankit Rajpoot,1
+669,Delhi Daredevils,Kolkata Knight Riders,"27th April, 2018",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Kolkata Knight Riders,Delhi Daredevils,Shreyas Iyer,1
+670,Chennai Super Kings,Mumbai Indians,"28th April, 2018",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Mumbai Indians,Mumbai Indians,Rohit Sharma,0
+671,Rajasthan Royals,Sunrisers Hyderabad,"29th April, 2018",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Kane Williamson,0
+672,Royal Challengers Bangalore,Kolkata Knight Riders,"29th April, 2018",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Chris Lynn,0
+673,Chennai Super Kings,Delhi Daredevils,"30th April, 2018",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Delhi Daredevils,Chennai Super Kings,Shane Watson,1
+674,Royal Challengers Bangalore,Mumbai Indians,"1st May, 2018",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Mumbai Indians,Royal Challengers Bangalore,Tim Southee,1
+675,Delhi Daredevils,Rajasthan Royals,"2nd May, 2018",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Rajasthan Royals,Delhi Daredevils,Rishabh Pant,1
+676,Kolkata Knight Riders,Chennai Super Kings,"3rd May, 2018",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,1
+677,Kings XI Punjab,Mumbai Indians,"4th May, 2018",league,"Holkar Cricket Stadium, Indore",Day/Night Match,Mumbai Indians,Mumbai Indians,Suryakumar Yadav,0
+678,Chennai Super Kings,Royal Challengers Bangalore,"5th May, 2018",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,1
+679,Sunrisers Hyderabad,Delhi Daredevils,"5th May, 2018",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Delhi Daredevils,Sunrisers Hyderabad,Rashid Khan,1
+680,Mumbai Indians,Kolkata Knight Riders,"6th May, 2018",league,"Wankhede Stadium, Mumbai",Day/Night Match,Kolkata Knight Riders,Mumbai Indians,Hardik Pandya,1
+681,Kings XI Punjab,Rajasthan Royals,"6th May, 2018",league,"Holkar Cricket Stadium, Indore",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Mujeeb Ur Rahman,1
+682,Sunrisers Hyderabad,Royal Challengers Bangalore,"7th May, 2018",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Royal Challengers Bangalore,Sunrisers Hyderabad,Kane Williamson,1
+683,Rajasthan Royals,Kings XI Punjab,"8th May, 2018",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Jos Buttler,1
+684,Kolkata Knight Riders,Mumbai Indians,"9th May, 2018",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Mumbai Indians,Ishan Kishan,0
+685,Delhi Daredevils,Sunrisers Hyderabad,"10th May, 2018",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Sunrisers Hyderabad,Shikhar Dhawan,0
+686,Rajasthan Royals,Chennai Super Kings,"11th May, 2018",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Chennai Super Kings,Rajasthan Royals,Jos Buttler,1
+687,Kings XI Punjab,Kolkata Knight Riders,"12th May, 2018",league,"Holkar Cricket Stadium, Indore",Day/Night Match,Kings XI Punjab,Kolkata Knight Riders,Sunil Narine,0
+688,Delhi Daredevils,Royal Challengers Bangalore,"12th May, 2018",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0
+689,Chennai Super Kings,Sunrisers Hyderabad,"13th May, 2018",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ambati Rayudu,1
+690,Mumbai Indians,Rajasthan Royals,"13th May, 2018",league,"Wankhede Stadium, Mumbai",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Jos Buttler,0
+691,Kings XI Punjab,Royal Challengers Bangalore,"14th May, 2018",league,"Holkar Cricket Stadium, Indore",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Umesh Yadav,0
+692,Kolkata Knight Riders,Rajasthan Royals,"15th May, 2018",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Kuldeep Yadav,1
+693,Mumbai Indians,Kings XI Punjab,"16th May, 2018",league,"Wankhede Stadium, Mumbai",Day/Night Match,Kings XI Punjab,Mumbai Indians,Jasprit Bumrah,1
+694,Royal Challengers Bangalore,Sunrisers Hyderabad,"17th May, 2018",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Sunrisers Hyderabad,Royal Challengers Bangalore,AB de Villiers,1
+695,Delhi Daredevils,Chennai Super Kings,"18th May, 2018",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Chennai Super Kings,Delhi Daredevils,Harshal Patel,1
+696,Rajasthan Royals,Royal Challengers Bangalore,"19th May, 2018",league,"Sawai Mansingh Stadium, Jaipur",Day Match,Rajasthan Royals,Rajasthan Royals,Shreyas Gopal,1
+697,Sunrisers Hyderabad,Kolkata Knight Riders,"19th May, 2018",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Kolkata Knight Riders,Chris Lynn,0
+698,Delhi Daredevils,Mumbai Indians,"20th May, 2018",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Daredevils,Delhi Daredevils,Amit Mishra,1
+699,Chennai Super Kings,Kings XI Punjab,"20th May, 2018",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Lungi Ngidi,1
+700,Chennai Super Kings,Sunrisers Hyderabad,"22nd May, 2018",knockout,"Wankhede Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Faf du Plessis,1
+701,Kolkata Knight Riders,Rajasthan Royals,"23rd May, 2018",knockout,"Eden Gardens, Kolkata",Day/Night Match,Rajasthan Royals,Kolkata Knight Riders,Andre Russell,1
+702,Kolkata Knight Riders,Sunrisers Hyderabad,"25th May, 2018",knockout,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Sunrisers Hyderabad,Rashid Khan,0
+703,Chennai Super Kings,Sunrisers Hyderabad,"27th May, 2018",knockout,"Wankhede Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Shane Watson,1
+704,Chennai Super Kings,Royal Challengers Bangalore,"23rd March, 2019",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Harbhajan Singh,1
+705,Kolkata Knight Riders,Sunrisers Hyderabad,"24th March, 2019",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,1
+706,Mumbai Indians,Delhi Capitals,"24th March, 2019",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Delhi Capitals,Rishabh Pant,0
+707,Rajasthan Royals,Kings XI Punjab,"25th March, 2019",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Kings XI Punjab,Chris Gayle,0
+708,Delhi Capitals,Chennai Super Kings,"26th March, 2019",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Capitals,Chennai Super Kings,Shane Watson,0
+709,Kolkata Knight Riders,Kings XI Punjab,"27th March, 2019",league,"Eden Gardens, Kolkata",Day/Night Match,Kings XI Punjab,Kolkata Knight Riders,Andre Russell,1
+710,Royal Challengers Bangalore,Mumbai Indians,"28th March, 2019",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Royal Challengers Bangalore,Mumbai Indians,Jasprit Bumrah,0
+711,Sunrisers Hyderabad,Rajasthan Royals,"29th March, 2019",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Rajasthan Royals,Sunrisers Hyderabad,Rashid Khan,1
+712,Kings XI Punjab,Mumbai Indians,"30th March, 2019",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Mayank Agarwal,1
+713,Delhi Capitals,Kolkata Knight Riders,"30th March, 2019",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Capitals,Delhi Capitals,Prithvi Shaw,1
+714,Sunrisers Hyderabad,Royal Challengers Bangalore,"31st March, 2019",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Royal Challengers Bangalore,Sunrisers Hyderabad,Jonny Bairstow,1
+715,Chennai Super Kings,Rajasthan Royals,"31st March, 2019",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Rajasthan Royals,Chennai Super Kings,M S Dhoni,1
+716,Kings XI Punjab,Delhi Capitals,"1st April, 2019",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Delhi Capitals,Kings XI Punjab,Sam Curran,1
+717,Rajasthan Royals,Royal Challengers Bangalore,"2nd April, 2019",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Shreyas Gopal,1
+718,Mumbai Indians,Chennai Super Kings,"3rd April, 2019",league,"Wankhede Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Mumbai Indians,Hardik Pandya,1
+719,Delhi Capitals,Sunrisers Hyderabad,"4th April, 2019",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Jonny Bairstow,0
+720,Royal Challengers Bangalore,Kolkata Knight Riders,"5th April, 2019",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,0
+721,Chennai Super Kings,Kings XI Punjab,"6th April, 2019",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Harbhajan Singh,1
+722,Sunrisers Hyderabad,Mumbai Indians,"6th April, 2019",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Mumbai Indians,Alzarri Joseph,0
+723,Royal Challengers Bangalore,Delhi Capitals,"7th April, 2019",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Delhi Capitals,Delhi Capitals,Kagiso Rabada,0
+724,Rajasthan Royals,Kolkata Knight Riders,"7th April, 2019",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Harry Gurney,0
+725,Kings XI Punjab,Sunrisers Hyderabad,"8th April, 2019",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,KL Rahul,1
+726,Chennai Super Kings,Kolkata Knight Riders,"9th April, 2019",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Deepak Chahar,1
+727,Mumbai Indians,Kings XI Punjab,"10th April, 2019",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Kieron Pollard,1
+728,Rajasthan Royals,Chennai Super Kings,"11th April, 2019",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Chennai Super Kings,Chennai Super Kings,M S Dhoni,0
+729,Kolkata Knight Riders,Delhi Capitals,"12th April, 2019",league,"Eden Gardens, Kolkata",Day/Night Match,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,0
+730,Mumbai Indians,Rajasthan Royals,"13th April, 2019",league,"Wankhede Stadium, Mumbai",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Jos Buttler,0
+731,Kings XI Punjab,Royal Challengers Bangalore,"13th April, 2019",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0
+732,Kolkata Knight Riders,Chennai Super Kings,"14th April, 2019",league,"Eden Gardens, Kolkata",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Imran Tahir,0
+733,Sunrisers Hyderabad,Delhi Capitals,"14th April, 2019",league,"Rajiv Gandhi International Stadium, Hyderabad",Day Match,Sunrisers Hyderabad,Delhi Capitals,Keemo Paul,0
+734,Mumbai Indians,Royal Challengers Bangalore,"15th April, 2019",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Lasith Malinga,1
+735,Kings XI Punjab,Rajasthan Royals,"16th April, 2019",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Rajasthan Royals,Kings XI Punjab,Ravichandran Ashwin,1
+736,Sunrisers Hyderabad,Chennai Super Kings,"17th April, 2019",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Chennai Super Kings,Sunrisers Hyderabad,David Warner,1
+737,Delhi Capitals,Mumbai Indians,"18th April, 2019",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Mumbai Indians,Mumbai Indians,Hardik Pandya,0
+738,Kolkata Knight Riders,Royal Challengers Bangalore,"19th April, 2019",league,"Eden Gardens, Kolkata",Day/Night Match,Kolkata Knight Riders,Royal Challengers Bangalore,Virat Kohli,0
+739,Rajasthan Royals,Mumbai Indians,"20th April, 2019",league,"Sawai Mansingh Stadium, Jaipur",Day Match,Rajasthan Royals,Rajasthan Royals,Steve Smith,1
+740,Delhi Capitals,Kings XI Punjab,"20th April, 2019",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Capitals,Delhi Capitals,Shreyas Iyer,1
+741,Sunrisers Hyderabad,Kolkata Knight Riders,"21st April, 2019",league,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Khaleel Ahmed,1
+742,Royal Challengers Bangalore,Chennai Super Kings,"21st April, 2019",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Chennai Super Kings,Royal Challengers Bangalore,Parthiv Patel,1
+743,Rajasthan Royals,Delhi Capitals,"22nd April, 2019",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Delhi Capitals,Delhi Capitals,Rishabh Pant,0
+744,Chennai Super Kings,Sunrisers Hyderabad,"23rd April, 2019",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Shane Watson,1
+745,Royal Challengers Bangalore,Kings XI Punjab,"24th April, 2019",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Kings XI Punjab,Royal Challengers Bangalore,AB de Villiers,1
+746,Kolkata Knight Riders,Rajasthan Royals,"25th April, 2019",league,"Eden Gardens, Kolkata",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Varun Aaron,0
+747,Chennai Super Kings,Mumbai Indians,"26th April, 2019",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Mumbai Indians,Rohit Sharma,0
+748,Rajasthan Royals,Sunrisers Hyderabad,"27th April, 2019",league,"Sawai Mansingh Stadium, Jaipur",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Jaydev Unadkat,1
+749,Delhi Capitals,Royal Challengers Bangalore,"28th April, 2019",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1
+750,Kolkata Knight Riders,Mumbai Indians,"28th April, 2019",league,"Eden Gardens, Kolkata",Day/Night Match,Mumbai Indians,Kolkata Knight Riders,Andre Russell,1
+751,Sunrisers Hyderabad,Kings XI Punjab,"29th April, 2019",league,"Rajiv Gandhi International Stadium, Hyderabad",Day Match,Kings XI Punjab,Sunrisers Hyderabad,David Warner,1
+752,Royal Challengers Bangalore,Rajasthan Royals,"30th April, 2019",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day/Night Match,Rajasthan Royals,No result,No Award,0
+753,Chennai Super Kings,Delhi Capitals,"1st May, 2019",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Delhi Capitals,Chennai Super Kings,M S Dhoni,1
+754,Mumbai Indians,Sunrisers Hyderabad,"2nd May, 2019",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Jasprit Bumrah,1
+755,Kings XI Punjab,Kolkata Knight Riders,"3rd May, 2019",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Shubman Gill,0
+756,Delhi Capitals,Rajasthan Royals,"4th May, 2019",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Rajasthan Royals,Delhi Capitals,Amit Mishra,1
+757,Royal Challengers Bangalore,Sunrisers Hyderabad,"4th May, 2019",league,"M Chinnaswamy Stadium, Bengaluru, Bangalore",Day Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Shimron Hetmeyer,1
+758,Kings XI Punjab,Chennai Super Kings,"5th May, 2019",league,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Day/Night Match,Kings XI Punjab,Kings XI Punjab,KL Rahul,1
+759,Mumbai Indians,Kolkata Knight Riders,"5th May, 2019",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Hardik Pandya,1
+760,Chennai Super Kings,Mumbai Indians,"7th May, 2019",knockout,"MA Chidambaram Stadium, Chennai",Day/Night Match,Chennai Super Kings,Mumbai Indians,Suryakumar Yadav,0
+761,Delhi Capitals,Sunrisers Hyderabad,"8th May, 2019",knockout,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day Match,Delhi Capitals,Delhi Capitals,Rishabh Pant,1
+762,Chennai Super Kings,Delhi Capitals,"10th May, 2019",knockout,"Dr YS Rajasekhara Reddy Cricket Stadium, Visakhapatnam",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Faf du Plessis,1
+763,Chennai Super Kings,Mumbai Indians,"12th May, 2019",knockout,"Rajiv Gandhi International Stadium, Hyderabad",Day/Night Match,Mumbai Indians,Mumbai Indians,Jasprit Bumrah,0
+764,Chennai Super Kings,Mumbai Indians,"19th September, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ambati Rayudu,1
+765,Delhi Capitals,Kings XI Punjab,"20th September, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Kings XI Punjab,Delhi Capitals,Marcus Stoinis,1
+766,Royal Challengers Bangalore,Sunrisers Hyderabad,"21st September, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Sunrisers Hyderabad,Royal Challengers Bangalore,Yuzvendra Chahal,1
+767,Chennai Super Kings,Rajasthan Royals,"22nd September, 2020",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Chennai Super Kings,Rajasthan Royals,Sanju Samson,0
+768,Kolkata Knight Riders,Mumbai Indians,"23rd September, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,0
+769,Kings XI Punjab,Royal Challengers Bangalore,"24th September, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Royal Challengers Bangalore,Kings XI Punjab,KL Rahul,1
+770,Chennai Super Kings,Delhi Capitals,"25th September, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Chennai Super Kings,Delhi Capitals,Prithvi Shaw,0
+771,Kolkata Knight Riders,Sunrisers Hyderabad,"26th September, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Sunrisers Hyderabad,Kolkata Knight Riders,Shubman Gill,1
+772,Kings XI Punjab,Rajasthan Royals,"27th September, 2020",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Sanju Samson,0
+773,Mumbai Indians,Royal Challengers Bangalore,"28th September, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Mumbai Indians,Royal Challengers Bangalore,AB de Villiers,0
+774,Delhi Capitals,Sunrisers Hyderabad,"29th September, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Delhi Capitals,Sunrisers Hyderabad,Rashid Khan,0
+775,Kolkata Knight Riders,Rajasthan Royals,"30th September, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Rajasthan Royals,Kolkata Knight Riders,Shivam Mavi,1
+776,Kings XI Punjab,Mumbai Indians,"1st October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Kings XI Punjab,Mumbai Indians,Kieron Pollard,0
+777,Chennai Super Kings,Sunrisers Hyderabad,"2nd October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Priyam Garg,0
+778,Royal Challengers Bangalore,Rajasthan Royals,"3rd October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Yuzvendra Chahal,1
+779,Delhi Capitals,Kolkata Knight Riders,"3rd October, 2020",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Kolkata Knight Riders,Delhi Capitals,Shreyas Iyer,1
+780,Mumbai Indians,Sunrisers Hyderabad,"4th October, 2020",league,"Sharjah Cricket Stadium, Sharjah",Day Match,Mumbai Indians,Mumbai Indians,Trent Boult,1
+781,Chennai Super Kings,Kings XI Punjab,"4th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Kings XI Punjab,Chennai Super Kings,Shane Watson,1
+782,Delhi Capitals,Royal Challengers Bangalore,"5th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Royal Challengers Bangalore,Delhi Capitals,Axar Patel,1
+783,Mumbai Indians,Rajasthan Royals,"6th October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Mumbai Indians,Mumbai Indians,Suryakumar Yadav,1
+784,Chennai Super Kings,Kolkata Knight Riders,"7th October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Rahul Tripathi,0
+785,Kings XI Punjab,Sunrisers Hyderabad,"8th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Jonny Bairstow,0
+786,Delhi Capitals,Rajasthan Royals,"9th October, 2020",league,"Sharjah Cricket Stadium, Sharjah",Day Match,Rajasthan Royals,Delhi Capitals,Ravichandran Ashwin,1
+787,Kolkata Knight Riders,Kings XI Punjab,"10th October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day Match,Kolkata Knight Riders,Kolkata Knight Riders,Dinesh Karthik,1
+788,Chennai Super Kings,Royal Challengers Bangalore,"10th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0
+789,Rajasthan Royals,Sunrisers Hyderabad,"11th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day Match,Sunrisers Hyderabad,Rajasthan Royals,Rahul Tewatia,1
+790,Delhi Capitals,Mumbai Indians,"11th October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Delhi Capitals,Mumbai Indians,Quinton de Kock,0
+791,Kolkata Knight Riders,Royal Challengers Bangalore,"12th October, 2020",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0
+792,Chennai Super Kings,Sunrisers Hyderabad,"13th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,1
+793,Delhi Capitals,Rajasthan Royals,"14th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day Match,Delhi Capitals,Delhi Capitals,Anrich Nortje,1
+794,Kings XI Punjab,Royal Challengers Bangalore,"15th October, 2020",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Royal Challengers Bangalore,Kings XI Punjab,KL Rahul,1
+795,Kolkata Knight Riders,Mumbai Indians,"16th October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Kolkata Knight Riders,Mumbai Indians,Quinton de Kock,0
+796,Royal Challengers Bangalore,Rajasthan Royals,"17th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day Match,Rajasthan Royals,Royal Challengers Bangalore,AB de Villiers,1
+797,Chennai Super Kings,Delhi Capitals,"17th October, 2020",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,0
+798,Kolkata Knight Riders,Sunrisers Hyderabad,"18th October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day Match,Sunrisers Hyderabad,Kolkata Knight Riders,Lockie Ferguson,1
+799,Kings XI Punjab,Mumbai Indians,"18th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Mumbai Indians,Kings XI Punjab,KL Rahul,1
+800,Chennai Super Kings,Rajasthan Royals,"19th October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Chennai Super Kings,Rajasthan Royals,Jos Buttler,0
+801,Delhi Capitals,Kings XI Punjab,"20th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Delhi Capitals,Kings XI Punjab,Shikhar Dhawan,0
+802,Kolkata Knight Riders,Royal Challengers Bangalore,"21st October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Kolkata Knight Riders,Royal Challengers Bangalore,Mohammed Siraj,0
+803,Rajasthan Royals,Sunrisers Hyderabad,"22nd October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Manish Pandey,0
+804,Chennai Super Kings,Mumbai Indians,"23rd October, 2020",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Mumbai Indians,Mumbai Indians,Trent Boult,0
+805,Delhi Capitals,Kolkata Knight Riders,"24th October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day Match,Delhi Capitals,Kolkata Knight Riders,Varun Chakravarthy,0
+806,Kings XI Punjab,Sunrisers Hyderabad,"24th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Sunrisers Hyderabad,Kings XI Punjab,Chris Jordan,1
+807,Chennai Super Kings,Royal Challengers Bangalore,"25th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day Match,Royal Challengers Bangalore,Chennai Super Kings,Ruturaj Gaikwad,1
+808,Mumbai Indians,Rajasthan Royals,"25th October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Mumbai Indians,Rajasthan Royals,Ben Stokes,0
+809,Kolkata Knight Riders,Kings XI Punjab,"26th October, 2020",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Kings XI Punjab,Kings XI Punjab,Chris Gayle,0
+810,Delhi Capitals,Sunrisers Hyderabad,"27th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Delhi Capitals,Sunrisers Hyderabad,Wriddhiman Saha,0
+811,Mumbai Indians,Royal Challengers Bangalore,"28th October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Mumbai Indians,Mumbai Indians,Suryakumar Yadav,1
+812,Chennai Super Kings,Kolkata Knight Riders,"29th October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ruturaj Gaikwad,1
+813,Kings XI Punjab,Rajasthan Royals,"30th October, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day Match,Rajasthan Royals,Rajasthan Royals,Ben Stokes,0
+814,Delhi Capitals,Mumbai Indians,"31st October, 2020",league,"Dubai International Cricket Stadium, Dubai",Day Match,Mumbai Indians,Mumbai Indians,Ishan Kishan,0
+815,Royal Challengers Bangalore,Sunrisers Hyderabad,"31st October, 2020",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Sandeep Sharma,0
+816,Chennai Super Kings,Kings XI Punjab,"1st November, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day Match,Chennai Super Kings,Chennai Super Kings,Ruturaj Gaikwad,1
+817,Kolkata Knight Riders,Rajasthan Royals,"1st November, 2020",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Rajasthan Royals,Kolkata Knight Riders,Pat Cummins,1
+818,Delhi Capitals,Royal Challengers Bangalore,"2nd November, 2020",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Delhi Capitals,Delhi Capitals,Anrich Nortje,1
+819,Mumbai Indians,Sunrisers Hyderabad,"3rd November, 2020",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Nadeem,0
+820,Delhi Capitals,Mumbai Indians,"5th November, 2020",knockout,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Delhi Capitals,Mumbai Indians,Jasprit Bumrah,0
+821,Royal Challengers Bangalore,Sunrisers Hyderabad,"6th November, 2020",knockout,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Kane Williamson,0
+822,Delhi Capitals,Sunrisers Hyderabad,"8th November, 2020",knockout,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Delhi Capitals,Delhi Capitals,Marcus Stoinis,1
+823,Delhi Capitals,Mumbai Indians,"10th November, 2020",knockout,"Dubai International Cricket Stadium, Dubai",Day Match,Delhi Capitals,Mumbai Indians,Trent Boult,0
+824,Mumbai Indians,Royal Challengers Bangalore,"9th April, 2021",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Harshal Patel,0
+825,Chennai Super Kings,Delhi Capitals,"10th April, 2021",league,"Wankhede Stadium, Mumbai",Day/Night Match,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,0
+826,Kolkata Knight Riders,Sunrisers Hyderabad,"11th April, 2021",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Sunrisers Hyderabad,Kolkata Knight Riders,Nitish Rana,1
+827,Punjab Kings,Rajasthan Royals,"12th April, 2021",league,"Wankhede Stadium, Mumbai",Day/Night Match,Rajasthan Royals,Punjab Kings,Sanju Samson,1
+828,Kolkata Knight Riders,Mumbai Indians,"13th April, 2021",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Kolkata Knight Riders,Mumbai Indians,Rahul Chahar,0
+829,Royal Challengers Bangalore,Sunrisers Hyderabad,"14th April, 2021",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Sunrisers Hyderabad,Royal Challengers Bangalore,Glenn Maxwell,1
+830,Delhi Capitals,Rajasthan Royals,"15th April, 2021",league,"Wankhede Stadium, Mumbai",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Jaydev Unadkat,0
+831,Chennai Super Kings,Punjab Kings,"16th April, 2021",league,"Wankhede Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Deepak Chahar,1
+832,Mumbai Indians,Sunrisers Hyderabad,"17th April, 2021",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Mumbai Indians,Mumbai Indians,Kieron Pollard,1
+833,Kolkata Knight Riders,Royal Challengers Bangalore,"18th April, 2021",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0
+834,Delhi Capitals,Punjab Kings,"18th April, 2021",league,"Wankhede Stadium, Mumbai",Day/Night Match,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1
+835,Chennai Super Kings,Rajasthan Royals,"19th April, 2021",league,"Wankhede Stadium, Mumbai",Day/Night Match,Rajasthan Royals,Chennai Super Kings,Moeen Ali,1
+836,Delhi Capitals,Mumbai Indians,"20th April, 2021",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Mumbai Indians,Delhi Capitals,Amit Mishra,1
+837,Punjab Kings,Sunrisers Hyderabad,"21st April, 2021",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Punjab Kings,Sunrisers Hyderabad,Jonny Bairstow,0
+838,Chennai Super Kings,Kolkata Knight Riders,"21st April, 2021",league,"Wankhede Stadium, Mumbai",Day/Night Match,Kolkata Knight Riders,Chennai Super Kings,Faf du Plessis,1
+839,Rajasthan Royals,Royal Challengers Bangalore,"22nd April, 2021",league,"Wankhede Stadium, Mumbai",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Devdutt  Padikkal,0
+840,Mumbai Indians,Punjab Kings,"23rd April, 2021",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Punjab Kings,Punjab Kings,KL Rahul,0
+841,Kolkata Knight Riders,Rajasthan Royals,"24th April, 2021",league,"Wankhede Stadium, Mumbai",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Chris Morris,0
+842,Chennai Super Kings,Royal Challengers Bangalore,"25th April, 2021",league,"Wankhede Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,1
+843,Delhi Capitals,Sunrisers Hyderabad,"25th April, 2021",league,"MA Chidambaram Stadium, Chennai",Day/Night Match,Delhi Capitals,Delhi Capitals,Prithvi Shaw,1
+844,Kolkata Knight Riders,Punjab Kings,"26th April, 2021",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Eoin Morgan,1
+845,Delhi Capitals,Royal Challengers Bangalore,"27th April, 2021",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Delhi Capitals,Royal Challengers Bangalore,AB de Villiers,0
+846,Chennai Super Kings,Sunrisers Hyderabad,"28th April, 2021",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Sunrisers Hyderabad,Chennai Super Kings,Ruturaj Gaikwad,1
+847,Mumbai Indians,Rajasthan Royals,"29th April, 2021",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Mumbai Indians,Mumbai Indians,Quinton de Kock,1
+848,Delhi Capitals,Kolkata Knight Riders,"29th April, 2021",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Delhi Capitals,Delhi Capitals,Prithvi Shaw,1
+849,Punjab Kings,Royal Challengers Bangalore,"30th April, 2021",league,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Royal Challengers Bangalore,Punjab Kings,Harpreet  Brar,1
+850,Chennai Super Kings,Mumbai Indians,"1st May, 2021",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Mumbai Indians,Mumbai Indians,Kieron Pollard,0
+851,Rajasthan Royals,Sunrisers Hyderabad,"2nd May, 2021",league,"Arun Jaitley Stadium, Delhi",Day/Night Match,Sunrisers Hyderabad,Rajasthan Royals,Jos Buttler,1
+852,Delhi Capitals,Punjab Kings,"2nd May, 2021",league,"Narendra Modi Stadium, Ahmedabad",Day Match,Delhi Capitals,Delhi Capitals,Mayank Agarwal,1
+853,Chennai Super Kings,Mumbai Indians,"19th September, 2021",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ruturaj Gaikwad,1
+854,Kolkata Knight Riders,Royal Challengers Bangalore,"20th September, 2021",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Royal Challengers Bangalore,Kolkata Knight Riders,Varun Chakravarthy,1
+855,Punjab Kings,Rajasthan Royals,"21st September, 2021",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Punjab Kings,Rajasthan Royals,Kartik Tyagi,0
+856,Delhi Capitals,Sunrisers Hyderabad,"22nd September, 2021",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Sunrisers Hyderabad,Delhi Capitals,Anrich Nortje,1
+857,Kolkata Knight Riders,Mumbai Indians,"23rd September, 2021",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,1
+858,Chennai Super Kings,Royal Challengers Bangalore,"24th September, 2021",league,"Sharjah Cricket Stadium, Sharjah",Day Match,Chennai Super Kings,Chennai Super Kings,Dwayne Bravo,1
+859,Delhi Capitals,Rajasthan Royals,"25th September, 2021",league,"Sheikh Zayed Stadium, Abu Dhabi",Day Match,Rajasthan Royals,Delhi Capitals,Shreyas Iyer,1
+860,Punjab Kings,Sunrisers Hyderabad,"25th September, 2021",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Sunrisers Hyderabad,Punjab Kings,Jason Holder,1
+861,Chennai Super Kings,Kolkata Knight Riders,"26th September, 2021",league,"Sheikh Zayed Stadium, Abu Dhabi",Day Match,Kolkata Knight Riders,Chennai Super Kings,Ravindra Jadeja,1
+862,Mumbai Indians,Royal Challengers Bangalore,"26th September, 2021",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Mumbai Indians,Royal Challengers Bangalore,Glenn Maxwell,0
+863,Rajasthan Royals,Sunrisers Hyderabad,"27th September, 2021",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Rajasthan Royals,Sunrisers Hyderabad,Jason Roy,0
+864,Delhi Capitals,Kolkata Knight Riders,"28th September, 2021",league,"Sharjah Cricket Stadium, Sharjah",Day Match,Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,0
+865,Mumbai Indians,Punjab Kings,"28th September, 2021",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Mumbai Indians,Mumbai Indians,Kieron Pollard,1
+866,Rajasthan Royals,Royal Challengers Bangalore,"29th September, 2021",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Yuzvendra Chahal,0
+867,Chennai Super Kings,Sunrisers Hyderabad,"30th September, 2021",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Josh Hazlewood,1
+868,Kolkata Knight Riders,Punjab Kings,"1st October, 2021",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Punjab Kings,Punjab Kings,KL Rahul,0
+869,Delhi Capitals,Mumbai Indians,"2nd October, 2021",league,"Sharjah Cricket Stadium, Sharjah",Day Match,Delhi Capitals,Delhi Capitals,Axar Patel,1
+870,Chennai Super Kings,Rajasthan Royals,"2nd October, 2021",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Ruturaj Gaikwad,0
+871,Punjab Kings,Royal Challengers Bangalore,"3rd October, 2021",league,"Sharjah Cricket Stadium, Sharjah",Day Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Glenn Maxwell,0
+872,Kolkata Knight Riders,Sunrisers Hyderabad,"3rd October, 2021",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Sunrisers Hyderabad,Kolkata Knight Riders,Shubman Gill,1
+873,Chennai Super Kings,Delhi Capitals,"4th October, 2021",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Delhi Capitals,Delhi Capitals,Axar Patel,0
+874,Mumbai Indians,Rajasthan Royals,"5th October, 2021",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Mumbai Indians,Mumbai Indians,Nathan Coulter-Nile,1
+875,Royal Challengers Bangalore,Sunrisers Hyderabad,"6th October, 2021",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Royal Challengers Bangalore,Sunrisers Hyderabad,Kane Williamson,0
+876,Chennai Super Kings,Punjab Kings,"7th October, 2021",league,"Dubai International Cricket Stadium, Dubai",Day Match,Punjab Kings,Punjab Kings,KL Rahul,0
+877,Kolkata Knight Riders,Rajasthan Royals,"7th October, 2021",league,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Rajasthan Royals,Kolkata Knight Riders,Shivam Mavi,1
+878,Mumbai Indians,Sunrisers Hyderabad,"8th October, 2021",league,"Sheikh Zayed Stadium, Abu Dhabi",Day/Night Match,Mumbai Indians,Mumbai Indians,Ishan Kishan,1
+879,Delhi Capitals,Royal Challengers Bangalore,"8th October, 2021",league,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Srikar Bharat,0
+880,Chennai Super Kings,Delhi Capitals,"10th October, 2021",knockout,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Chennai Super Kings,Chennai Super Kings,Ruturaj Gaikwad,1
+881,Kolkata Knight Riders,Royal Challengers Bangalore,"11th October, 2021",knockout,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Royal Challengers Bangalore,Kolkata Knight Riders,Sunil Narine,1
+882,Delhi Capitals,Kolkata Knight Riders,"13th October, 2021",knockout,"Sharjah Cricket Stadium, Sharjah",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Venkatesh Iyer,0
+883,Chennai Super Kings,Kolkata Knight Riders,"15th October, 2021",knockout,"Dubai International Cricket Stadium, Dubai",Day/Night Match,Kolkata Knight Riders,Chennai Super Kings,Faf du Plessis,1
+884,Chennai Super Kings,Kolkata Knight Riders,"26th March, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Umesh Yadav,0
+885,Mumbai Indians,Delhi Capitals,"27th March, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Delhi Capitals,Delhi Capitals,Kuldeep Yadav,0
+886,Punjab Kings,Royal Challengers Bangalore,"27th March, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Punjab Kings,Punjab Kings,Faf du Plessis,1
+887,Gujarat Titans,Lucknow Super Giants,"28th March, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Gujarat Titans,Gujarat Titans,Mohammed Shami,1
+888,Rajasthan Royals,Sunrisers Hyderabad,"29th March, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Sunrisers Hyderabad,Rajasthan Royals,Sanju Samson,1
+889,Kolkata Knight Riders,Royal Challengers Bangalore,"30th March, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Wanindu Hasaranga,0
+890,Chennai Super Kings,Lucknow Super Giants,"31st March, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Lucknow Super Giants,Lucknow Super Giants,Evin Lewis,0
+891,Kolkata Knight Riders,Punjab Kings,"1st April, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Umesh Yadav,1
+892,Mumbai Indians,Rajasthan Royals,"2nd April, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Mumbai Indians,Rajasthan Royals,Jos Buttler,0
+893,Delhi Capitals,Gujarat Titans,"2nd April, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Delhi Capitals,Gujarat Titans,Lockie Ferguson,0
+894,Chennai Super Kings,Punjab Kings,"3rd April, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Punjab Kings,Liam Livingstone,0
+895,Lucknow Super Giants,Sunrisers Hyderabad,"4th April, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Sunrisers Hyderabad,Lucknow Super Giants,Avesh Khan,1
+896,Rajasthan Royals,Royal Challengers Bangalore,"5th April, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Dinesh Karthik,0
+897,Kolkata Knight Riders,Mumbai Indians,"6th April, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Pat Cummins,1
+898,Delhi Capitals,Lucknow Super Giants,"7th April, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Lucknow Super Giants,Lucknow Super Giants,Quinton de Kock,0
+899,Gujarat Titans,Punjab Kings,"8th April, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Gujarat Titans,Gujarat Titans,Shubman Gill,1
+900,Chennai Super Kings,Sunrisers Hyderabad,"9th April, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Abhishek Sharma,0
+901,Mumbai Indians,Royal Challengers Bangalore,"9th April, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Anuj Rawat,0
+902,Delhi Capitals,Kolkata Knight Riders,"10th April, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Kolkata Knight Riders,Delhi Capitals,Kuldeep Yadav,1
+903,Lucknow Super Giants,Rajasthan Royals,"10th April, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Lucknow Super Giants,Rajasthan Royals,Yuzvendra Chahal,0
+904,Gujarat Titans,Sunrisers Hyderabad,"11th April, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Kane Williamson,0
+905,Chennai Super Kings,Royal Challengers Bangalore,"12th April, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Royal Challengers Bangalore,Chennai Super Kings,Shivam Dube,1
+906,Mumbai Indians,Punjab Kings,"13th April, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Mumbai Indians,Punjab Kings,Mayank Agarwal,0
+907,Gujarat Titans,Rajasthan Royals,"14th April, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Rajasthan Royals,Gujarat Titans,Hardik Pandya,1
+908,Kolkata Knight Riders,Sunrisers Hyderabad,"15th April, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Rahul Tripathi,0
+909,Mumbai Indians,Lucknow Super Giants,"16th April, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,0
+910,Delhi Capitals,Royal Challengers Bangalore,"16th April, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Delhi Capitals,Royal Challengers Bangalore,Dinesh Karthik,0
+911,Punjab Kings,Sunrisers Hyderabad,"17th April, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Umran Malik,0
+912,Chennai Super Kings,Gujarat Titans,"17th April, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Gujarat Titans,Gujarat Titans,David Miller,0
+913,Kolkata Knight Riders,Rajasthan Royals,"18th April, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Kolkata Knight Riders,Rajasthan Royals,Yuzvendra Chahal,0
+914,Lucknow Super Giants,Royal Challengers Bangalore,"19th April, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Lucknow Super Giants,Royal Challengers Bangalore,Faf du Plessis,0
+915,Delhi Capitals,Punjab Kings,"20th April, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Delhi Capitals,Delhi Capitals,Kuldeep Yadav,1
+916,Mumbai Indians,Chennai Super Kings,"21st April, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day Match,Chennai Super Kings,Chennai Super Kings,Mukesh Choudhary,0
+917,Delhi Capitals,Rajasthan Royals,"22nd April, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Delhi Capitals,Rajasthan Royals,Jos Buttler,0
+918,Gujarat Titans,Kolkata Knight Riders,"23rd April, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Gujarat Titans,Gujarat Titans,Rashid Khan,1
+919,Royal Challengers Bangalore,Sunrisers Hyderabad,"23rd April, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Sunrisers Hyderabad,Sunrisers Hyderabad,Marco Jansen,0
+920,Mumbai Indians,Lucknow Super Giants,"24th April, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Lucknow Super Giants,KL Rahul,0
+921,Chennai Super Kings,Punjab Kings,"25th April, 2022",league,"Wankhede Stadium, Mumbai",Day Match,Chennai Super Kings,Punjab Kings,Shikhar Dhawan,0
+922,Rajasthan Royals,Royal Challengers Bangalore,"26th April, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Royal Challengers Bangalore,Rajasthan Royals,Riyan  Parag,1
+923,Gujarat Titans,Sunrisers Hyderabad,"27th April, 2022",league,"Wankhede Stadium, Mumbai",Day Match,Gujarat Titans,Gujarat Titans,Umran Malik,1
+924,Delhi Capitals,Kolkata Knight Riders,"28th April, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Delhi Capitals,Delhi Capitals,Kuldeep Yadav,1
+925,Lucknow Super Giants,Punjab Kings,"29th April, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Punjab Kings,Lucknow Super Giants,Krunal Pandya,1
+926,Gujarat Titans,Royal Challengers Bangalore,"30th April, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Royal Challengers Bangalore,Gujarat Titans,Rahul Tewatia,1
+927,Mumbai Indians,Rajasthan Royals,"30th April, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Suryakumar Yadav,1
+928,Delhi Capitals,Lucknow Super Giants,"1st May, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,0
+929,Chennai Super Kings,Sunrisers Hyderabad,"1st May, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Sunrisers Hyderabad,Chennai Super Kings,Ruturaj Gaikwad,1
+930,Kolkata Knight Riders,Rajasthan Royals,"2nd May, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Rinku Singh,1
+931,Gujarat Titans,Punjab Kings,"3rd May, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Gujarat Titans,Punjab Kings,Kagiso Rabada,0
+932,Chennai Super Kings,Royal Challengers Bangalore,"4th May, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Chennai Super Kings,Royal Challengers Bangalore,Harshal Patel,0
+933,Delhi Capitals,Sunrisers Hyderabad,"5th May, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Sunrisers Hyderabad,Delhi Capitals,David Warner,1
+934,Gujarat Titans,Mumbai Indians,"6th May, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Gujarat Titans,Mumbai Indians,Tim David,0
+935,Punjab Kings,Rajasthan Royals,"7th May, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Punjab Kings,Rajasthan Royals,Yashasvi Jaiswal,0
+936,Kolkata Knight Riders,Lucknow Super Giants,"7th May, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Kolkata Knight Riders,Lucknow Super Giants,Avesh Khan,0
+937,Royal Challengers Bangalore,Sunrisers Hyderabad,"8th May, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Royal Challengers Bangalore,Royal Challengers Bangalore,Wanindu Hasaranga,1
+938,Chennai Super Kings,Delhi Capitals,"8th May, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Delhi Capitals,Chennai Super Kings,Devon Conway,1
+939,Kolkata Knight Riders,Mumbai Indians,"9th May, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Mumbai Indians,Kolkata Knight Riders,Jasprit Bumrah,1
+940,Gujarat Titans,Lucknow Super Giants,"10th May, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Gujarat Titans,Gujarat Titans,Shubman Gill,1
+941,Delhi Capitals,Rajasthan Royals,"11th May, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Delhi Capitals,Delhi Capitals,Mitchell Marsh,1
+942,Chennai Super Kings,Mumbai Indians,"12th May, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Daniel Sams,0
+943,Punjab Kings,Royal Challengers Bangalore,"13th May, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Royal Challengers Bangalore,Punjab Kings,Jonny Bairstow,1
+944,Kolkata Knight Riders,Sunrisers Hyderabad,"14th May, 2022",league,"Maharashtra Cricket Association Stadium, Pune",Day/Night Match,Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,1
+945,Chennai Super Kings,Gujarat Titans,"15th May, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Gujarat Titans,Wriddhiman Saha,0
+946,Lucknow Super Giants,Rajasthan Royals,"15th May, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Trent Boult,0
+947,Delhi Capitals,Punjab Kings,"16th May, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Punjab Kings,Delhi Capitals,Shardul Thakur,1
+948,Mumbai Indians,Sunrisers Hyderabad,"17th May, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Sunrisers Hyderabad,Rahul Tripathi,0
+949,Kolkata Knight Riders,Lucknow Super Giants,"18th May, 2022",league,"Dr DY Patil Sports Academy, Mumbai",Day/Night Match,Lucknow Super Giants,Lucknow Super Giants,Quinton de Kock,0
+950,Gujarat Titans,Royal Challengers Bangalore,"19th May, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Gujarat Titans,Royal Challengers Bangalore,Virat Kohli,0
+951,Chennai Super Kings,Rajasthan Royals,"20th May, 2022",league,"Brabourne Stadium, Mumbai",Day/Night Match,Chennai Super Kings,Rajasthan Royals,Ravichandran Ashwin,0
+952,Delhi Capitals,Mumbai Indians,"21st May, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Mumbai Indians,Mumbai Indians,Jasprit Bumrah,0
+953,Punjab Kings,Sunrisers Hyderabad,"22nd May, 2022",league,"Wankhede Stadium, Mumbai",Day/Night Match,Sunrisers Hyderabad,Punjab Kings,Harpreet  Brar,1
+954,Gujarat Titans,Rajasthan Royals,"24th May, 2022",knockout,"Eden Gardens, Kolkata",Day Match,Gujarat Titans,Gujarat Titans,David Miller,1
+955,Lucknow Super Giants,Royal Challengers Bangalore,"25th May, 2022",knockout,"Eden Gardens, Kolkata",Day/Night Match,Lucknow Super Giants,Royal Challengers Bangalore,Rajat Patidar,0
+956,Royal Challengers Bangalore,Rajasthan Royals,"27th May, 2022",knockout,"Narendra Modi Stadium, Ahmedabad",Day/Night Match,Rajasthan Royals,Rajasthan Royals,Jos Buttler,0
+957,Gujarat Titans,Rajasthan Royals,"29th May, 2022",knockout,"Narendra Modi Stadium, Ahmedabad",Day Match,Rajasthan Royals,Gujarat Titans,Hardik Pandya,1
